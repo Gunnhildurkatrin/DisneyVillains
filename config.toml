@@ -3,6 +3,13 @@ languageCode = 'en-us'
 title = 'Dinsey Villains'
 theme = 'ananke'
 
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+
 [params]
   custom_css = ["css/custom.css"]
   author = ""

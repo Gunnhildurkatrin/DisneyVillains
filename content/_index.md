@@ -8,7 +8,6 @@ date: 2021-12-06T14:29:55+01:00
 
 {{< figure src="/images/network.png" title="Steve Francia">}}
 
-img{
-    max-width: 100%;
-    height: auto;
-}
+
+
+![image]({{< imgresize pdf "50x50" >}}/images/network.png)

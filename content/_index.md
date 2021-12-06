@@ -17,8 +17,8 @@ Finally, what we need to point out, is that if someone wants to be a bad guy, Pi
 
 ![network]({{< baseurl >}}/images/network.png)
 
-![network]({{< baseurl >}}/images/network.png){:height="50%" width="50%"}
-![network]({{< baseurl >}}/images/network.png){:height="700px" width="400px"}
+
+[[/images/network.png|width=400px]]
 
 
 {{< figure src="/images/network.png" class="img-sm">}}

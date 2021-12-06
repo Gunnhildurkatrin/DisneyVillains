@@ -11,6 +11,6 @@ menu: main
 ![network]({{< baseurl >}}/images/network.png)
 
 
-{{< figure src="/images/network.png" class="img-lg">}}
+{{< figure src="/images/network.png" style=“width:10%;”>}}
 
 

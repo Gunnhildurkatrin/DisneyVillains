@@ -1,0 +1,1400 @@
+,Source,Target,community
+0,Vice President Rodriguez,Aldrich Killian,1.0
+1,Vice President Rodriguez,Eric Savin,1.0
+2,Vice President Rodriguez,Aldrich Killian,1.0
+3,Vice President Rodriguez,Aldrich Killian,1.0
+4,Ronan the Accuser,Kree,2.0
+5,Ronan the Accuser,Thanos,2.0
+6,Ronan the Accuser,Hala,2.0
+7,Ronan the Accuser,Kree,2.0
+8,Ronan the Accuser,Kree,2.0
+9,Ronan the Accuser,Yon-Rogg,2.0
+10,Ronan the Accuser,Thanos,2.0
+11,Ronan the Accuser,Nebula,2.0
+12,Ronan the Accuser,Nebula,2.0
+13,Ronan the Accuser,Thanos,2.0
+14,Ronan the Accuser,Ravagers,2.0
+15,Sabretooth,Magneto,3.0
+16,Sabretooth,Deadpool,3.0
+17,Sabretooth,Deadpool,3.0
+18,Sabretooth,Juggernaut,3.0
+19,Vector,Vapor,
+20,Vector,Ironclad,
+21,Vector,U-Foes,
+22,Variants,Boastful Loki,4.0
+23,Variants,President Loki,4.0
+24,Variants,Ravonna Renslayer,4.0
+25,Variants,Kang,4.0
+26,Variants,Time Keepers,4.0
+27,Variants,Miss Minutes,4.0
+28,Variants,Kang,4.0
+29,Variants,Alioth,4.0
+30,Variants,Time Keepers,4.0
+31,Variants,Ravonna Renslayer,4.0
+32,Variants,Time Keepers,4.0
+33,Variants,Boastful Loki,4.0
+34,Variants,Alioth,4.0
+35,Variants,Thanos,4.0
+36,Variants,President Loki,4.0
+37,Variants,Miss Minutes,4.0
+38,Variants,Kang,4.0
+39,Variants,Kang,4.0
+40,Variants,Alioth,4.0
+41,Variants,Thanos,4.0
+42,Variants,Boastful Loki,4.0
+43,Variants,President Loki,4.0
+44,Variants,Kang,4.0
+45,Variants,Ravonna Renslayer,4.0
+46,Variants,Time Keepers,4.0
+47,Variants,Alioth,4.0
+48,Variants,Roxxon Corporation,4.0
+49,Variants,Alioth,4.0
+50,Variants,Kang,4.0
+51,Vapor,U-Foes,
+52,Dottie Underwood,Johann Fennhoff,
+53,Ultron-Sigma,Ultron,3.0
+54,Ultron-Sigma,Ultron Sentries,3.0
+55,Ultron-Sigma,Ultron,3.0
+56,Ultron-Sigma,Thanos,3.0
+57,Ultron-Sigma,Ultron,3.0
+58,Ultron-Sigma,Galactus,3.0
+59,Ultron-Sigma,Ultron Sentries,3.0
+60,Ultron Sentries,Ultron,3.0
+61,Ultron Sentries,Ultron,3.0
+62,Ultron Sentries,Scarlet Witch,3.0
+63,Ultron Sentries,Ultron,3.0
+64,Ultron Sentries,Ultron-Sigma,3.0
+65,Ultron,Truman Marsh,3.0
+66,Ultron,Ulysses Klaue,3.0
+67,Ultron,Scarlet Witch,3.0
+68,Ultron,Scarlet Witch,3.0
+69,Ultron,Quicksilver,3.0
+70,Ultron,Ego the Living Planet,3.0
+71,Ultron,Kang,3.0
+72,Ultron,Thanos,3.0
+73,Ultron,Destroyer,3.0
+74,Ultron,Thaddeus Ross,3.0
+75,Ultron,Karl Mordo,3.0
+76,Ultron,Ultron-Sigma,3.0
+77,Ultron,Collector,3.0
+78,Ultron,Doctor Spectrum,3.0
+79,Ultron,Ultron-Sigma,3.0
+80,Ultimo,Leader,11.0
+81,Ultimo,Leader,11.0
+82,Ultimo,Ultron,11.0
+83,Ulik,Doctor Doom,9.0
+84,Ulik,Midgard Serpent,9.0
+85,U.S. Agent,Bucky Barnes,9.0
+86,U.S. Agent,Karli Morgenthau,9.0
+87,U.S. Agent,Karli Morgenthau,9.0
+88,U.S. Agent,Bucky Barnes,9.0
+89,U.S. Agent,Karli Morgenthau,9.0
+90,U.S. Agent,Baron Zemo,9.0
+91,U.S. Agent,Ego the Living Planet,9.0
+92,U-Foes,Ironclad,
+93,U-Foes,Vapor,
+94,U-Foes,Vector,
+95,U-Foes,X-Ray (Marvel),
+96,U-Foes,Ironclad,
+97,U-Foes,Vapor,
+98,U-Foes,Vector,
+99,U-Foes,X-Ray (Marvel),
+100,Typhoid Mary,Thanos,2.0
+101,Truman Marsh,Ultron,3.0
+102,Trish Walker,Kilgrave,
+103,Trick Shot,Baron Zemo,9.0
+104,Trapster,Frightful Four,10.0
+105,Trapster,Wizard (Marvel),10.0
+106,Trapster,Frightful Four,10.0
+107,Trapster,Chemistro,10.0
+108,Trapster,Doctor Octopus,10.0
+109,Trapster,Wizard (Marvel),10.0
+110,Venom,Harry Osborn,10.0
+111,Venom,Doctor Octopus,10.0
+112,Venom,Harry Osborn,10.0
+113,Venom,Batroc,10.0
+114,Venom,Doctor Octopus,10.0
+115,Venom,Loki Laufeyson,10.0
+116,Venom,Red Skull,10.0
+117,Venom,Whiplash,10.0
+118,Venom,Harry Osborn,10.0
+119,Venom,Harry Osborn,10.0
+120,Venom,Carnage,10.0
+121,Topaz,Grandmaster,11.0
+122,Viola,Freddy Malick,9.0
+123,Viola,Freddy Malick,9.0
+124,Viola,Freddy Malick,9.0
+125,Viola,Red Skull,9.0
+126,Viola,Red Skull,9.0
+127,Viola,Freddy Malick,9.0
+128,Vulture (Marvel),Shocker,10.0
+129,Vulture (Marvel),Doctor Octopus,10.0
+130,Vulture (Marvel),Taskmaster,10.0
+131,Vulture (Marvel),Chitauri,10.0
+132,Vulture (Marvel),Doctor Octopus,10.0
+133,Vulture (Marvel),Rhino (Marvel),10.0
+134,Baron Zemo,Bucky Barnes,9.0
+135,Baron Zemo,Masters of Evil,9.0
+136,Baron Zemo,Ultron,9.0
+137,Baron Zemo,Graviton,9.0
+138,Baron Zemo,Doughboy,9.0
+139,Baron Zemo,Skurge,9.0
+140,Baron Zemo,Wonder Man,9.0
+141,Baron Zemo,Crimson Dynamo,9.0
+142,Baron Zemo,Bucky Barnes,9.0
+143,Baron Zemo,Growing Man,9.0
+144,Baron Zemo,Masters of Evil,9.0
+145,Zealots,Kaecilius,6.0
+146,Zealots,Kaecilius,6.0
+147,Zealots,Dormammu,6.0
+148,Calvin Zabo,Raina,5.0
+149,Calvin Zabo,Grant Ward,5.0
+150,Calvin Zabo,Daniel Whitehall,5.0
+151,Calvin Zabo,Daniel Whitehall,5.0
+152,Calvin Zabo,Absorbing Man,5.0
+153,Calvin Zabo,Raina,5.0
+154,Calvin Zabo,Daniel Whitehall,5.0
+155,Calvin Zabo,Kree,5.0
+156,Calvin Zabo,Grant Ward,5.0
+157,Yon-Rogg,Kree,2.0
+158,Yon-Rogg,Kree,2.0
+159,Yon-Rogg,Kree,2.0
+160,Ymir,Frost Giants,4.0
+161,Ymir,Loki Laufeyson,4.0
+162,X-Ray (Marvel),U-Foes,
+163,Wonder Man,Baron Zemo,9.0
+164,Wonder Man,Skurge,9.0
+165,Wonder Man,Crimson Dynamo,9.0
+166,Wonder Man,Abomination,9.0
+167,Wonder Man,Chemistro,9.0
+168,Wonder Man,Grim Reaper,9.0
+169,Wonder Man,Baron Zemo,9.0
+170,Wonder Man,Skurge,9.0
+171,Wonder Man,Crimson Dynamo,9.0
+172,Wonder Man,Abomination,9.0
+173,Wonder Man,Chemistro,9.0
+174,Wonder Man,Grim Reaper,9.0
+175,Wonder Man,Jodie Tarleton,9.0
+176,Wolf Spider,Lizard,10.0
+177,Wolf Spider,Mister Negative,10.0
+178,Wizard (Marvel),Frightful Four,10.0
+179,Wizard (Marvel),Trapster,10.0
+180,Wizard (Marvel),Frightful Four,10.0
+181,Wizard (Marvel),Doctor Octopus,10.0
+182,Wizard (Marvel),Trapster,10.0
+183,Wizard (Marvel),Trapster,10.0
+184,Daniel Whitehall,Red Skull,5.0
+185,Daniel Whitehall,Red Skull,5.0
+186,Daniel Whitehall,Kree,5.0
+187,Daniel Whitehall,Alexander Pierce,5.0
+188,Daniel Whitehall,Agent 33,5.0
+189,Daniel Whitehall,Doctor List,5.0
+190,Whiplash,Glenn Talbot,11.0
+191,Whiplash,Red Skull,11.0
+192,Werner von Strucker,Baron Strucker,5.0
+193,Werner von Strucker,Grant Ward,5.0
+194,Werner von Strucker,Gideon Malick,5.0
+195,Werner von Strucker,Absorbing Man,5.0
+196,Werner von Strucker,Ruby Hale,5.0
+197,Werner von Strucker,Grant Ward,5.0
+198,Werner von Strucker,Gideon Malick,5.0
+199,Werner von Strucker,Kebo,5.0
+200,Werner von Strucker,Baron Strucker,5.0
+201,Werner von Strucker,Grant Ward,5.0
+202,Werner von Strucker,Ruby Hale,5.0
+203,Werner von Strucker,Gideon Malick,5.0
+204,Grant Ward,Deathlok (John Garrett),5.0
+205,Grant Ward,Gideon Malick,5.0
+206,Grant Ward,Agent 33,5.0
+207,Grant Ward,Raina,5.0
+208,Grant Ward,Calvin Zabo,5.0
+209,Grant Ward,Agent Felix Blake,5.0
+210,Grant Ward,Agent Jasper Sitwell,5.0
+211,Grant Ward,Giyera,5.0
+212,Grant Ward,Kebo,5.0
+213,Grant Ward,Daniel Whitehall,5.0
+214,Grant Ward,Sunil Bakshi,5.0
+215,Grant Ward,Werner von Strucker,5.0
+216,Grant Ward,Blizzard,5.0
+217,Grant Ward,Christian Ward,5.0
+218,Grant Ward,Raina,5.0
+219,Grant Ward,Gideon Malick,5.0
+220,Grant Ward,Daniel Whitehall,5.0
+221,Grant Ward,Doctor List,5.0
+222,Grant Ward,Sunil Bakshi,5.0
+223,Grant Ward,Werner von Strucker,5.0
+224,Grant Ward,Graviton,5.0
+225,Grant Ward,Lorelei,5.0
+226,Grant Ward,Glenn Talbot,5.0
+227,Grant Ward,Absorbing Man,5.0
+228,Grant Ward,Daniel Whitehall,5.0
+229,Grant Ward,Calvin Zabo,5.0
+230,Grant Ward,Raina,5.0
+231,Grant Ward,Gordon (Marvel),5.0
+232,W'Kabi,Erik Killmonger,3.0
+233,W'Kabi,Ulysses Klaue,3.0
+234,W'Kabi,Erik Killmonger,3.0
+235,Vuk,Jean Grey,3.0
+236,Vuk,Magneto,3.0
+237,Vuk,Jean Grey,3.0
+238,Roxxon Corporation,Whitney Frost,4.0
+239,Roxxon Corporation,Elektra Natchios,4.0
+240,Roxxon Corporation,Aldrich Killian,4.0
+241,Roxxon Corporation,Loki Laufeyson,4.0
+242,Roxxon Corporation,Variants,4.0
+243,Titus,Proxima Midnight,2.0
+244,Titus,Corvus Glaive,2.0
+245,Titus,Ebony Maw,2.0
+246,Titus,Chitauri,2.0
+247,Tinkerer,Vulture (Marvel),8.0
+248,Tinkerer,Vulture (Marvel),8.0
+249,Tinkerer,Vulture (Marvel),8.0
+250,Tinkerer,Chitauri,8.0
+251,Tinkerer,Kingpin,8.0
+252,Tinkerer,Blizzard,8.0
+253,Shades,Diamondback,8.0
+254,Shades,Cottonmouth,8.0
+255,Shades,Black Mariah,8.0
+256,Shades,Diamondback,8.0
+257,Shades,Cottonmouth,8.0
+258,Shades,Black Mariah,8.0
+259,Shades,Diamondback,8.0
+260,Shades,Diamondback,8.0
+261,Shades,Diamondback,8.0
+262,Shades,Diamondback,8.0
+263,Shades,Cottonmouth,8.0
+264,Shades,Cottonmouth,8.0
+265,Shades,Black Mariah,8.0
+266,Shades,Diamondback,8.0
+267,Serpent Society,King Cobra,8.0
+268,Serpent Society,King Cobra,8.0
+269,Serpent Society,Constrictor,8.0
+270,Serpent Society,Death Adder,8.0
+271,Serpent Society,Rattler,8.0
+272,Serpent Society,Diamondback,8.0
+273,Serpent Society,Cottonmouth,8.0
+274,Serpent Society,King Cobra,8.0
+275,Serpent Society,Ultron,8.0
+276,Sentinel,Arcade,3.0
+277,Selby,Baron Zemo,9.0
+278,Selby,Bucky Barnes,9.0
+279,Selby,Baron Zemo,9.0
+280,Selby,Bucky Barnes,9.0
+281,Selby,Dr. Nagel,9.0
+282,Selby,Sharon Carter,9.0
+283,Scorpion,Doctor Octopus,10.0
+284,Scorpion,Kraven,10.0
+285,Scorpion,Rhino (Marvel),10.0
+286,Scorpion,Vulture (Marvel),10.0
+287,Scorpion,Vulture (Marvel),10.0
+288,Scorpion,Venom,10.0
+289,Scorch (Marvel),Raina,5.0
+290,Scorch (Marvel),Raina,5.0
+291,Scorch (Marvel),Raina,5.0
+292,Scarlet Witch,Quicksilver,3.0
+293,Scarlet Witch,Quicksilver,3.0
+294,Scarlet Witch,Quicksilver,3.0
+295,Scarlet Witch,Ultron,3.0
+296,Scarlet Witch,Baron Strucker,3.0
+297,Scarlet Witch,Quicksilver,3.0
+298,Scarlet Witch,Ultron,3.0
+299,Scarlet Witch,Proxima Midnight,3.0
+300,Scarlet Witch,Corvus Glaive,3.0
+301,Scarlet Witch,Thanos,3.0
+302,Scarlet Witch,Quicksilver,3.0
+303,Scarlet Witch,Ultron,3.0
+304,Scarlet Witch,Agatha Harkness,3.0
+305,Scarlet Witch,Ultron,3.0
+306,Scarlet Witch,Magneto,3.0
+307,Scarlet Witch,Quicksilver,3.0
+308,Scarlet Witch,Magneto,3.0
+309,Scarlet Witch,Director Hayward,3.0
+310,Scarlet Spider,Doctor Octopus,10.0
+311,Scarlet Spider,Doctor Octopus,10.0
+312,Scarlet Spider,Kraven,10.0
+313,Scarlet Spider,Doctor Octopus,10.0
+314,Scarlet Spider,Rhino (Marvel),10.0
+315,Scarlet Spider,Doctor Octopus,10.0
+316,Scarlet Spider,Doctor Octopus,10.0
+317,Eric Savin,Aldrich Killian,1.0
+318,Eric Savin,Ellen Brandt,1.0
+319,Eric Savin,Aldrich Killian,1.0
+320,Eric Savin,Aldrich Killian,1.0
+321,Eric Savin,Ellen Brandt,1.0
+322,Eric Savin,Aldrich Killian,1.0
+323,Sauron,Leader,11.0
+324,Sandman,The Elementals,10.0
+325,Sandgirl,Sandman,10.0
+326,Sandgirl,Sandman,10.0
+327,Sandgirl,Sandman,10.0
+328,Sandgirl,Hammerhead,10.0
+329,Sandgirl,Sandman,10.0
+330,Sakaarans,Grandmaster,2.0
+331,Sakaarans,Ronan the Accuser,2.0
+332,Sakaarans,Grandmaster,2.0
+333,Shocker,Vulture (Marvel),10.0
+334,Shocker,Vulture (Marvel),10.0
+335,Shocker,Chitauri,10.0
+336,Shocker,Scorpion,10.0
+337,Titania (Marvel),Absorbing Man,5.0
+338,Sinara,Kree,2.0
+339,Sinara,Kasius,2.0
+340,Sinara,Kasius,2.0
+341,Thanos,Black Order,2.0
+342,Thanos,Nebula,2.0
+343,Thanos,Ebony Maw,2.0
+344,Thanos,Proxima Midnight,2.0
+345,Thanos,Corvus Glaive,2.0
+346,Thanos,Nebula,2.0
+347,Thanos,Black Order,2.0
+348,Thanos,Kree,2.0
+349,Thanos,Nebula,2.0
+350,Thanos,Loki Laufeyson,2.0
+351,Thanos,Chitauri,2.0
+352,Thanos,Loki Laufeyson,2.0
+353,Thanos,Ronan the Accuser,2.0
+354,Thanos,Nebula,2.0
+355,Thanos,Glenn Talbot,2.0
+356,Thanos,Black Order,2.0
+357,Thanos,Proxima Midnight,2.0
+358,Thanos,Corvus Glaive,2.0
+359,Thanos,Collector,2.0
+360,Thanos,Red Skull,2.0
+361,Thanos,Ebony Maw,2.0
+362,Thanos,Scarlet Witch,2.0
+363,Thanos,Scarlet Witch,2.0
+364,Thanos,Variants,2.0
+365,Thanos,Miss Minutes,2.0
+366,Thanos,Ultron,2.0
+367,Thanos,Red Skull,2.0
+368,Thanos,Dormammu,2.0
+369,Thanos,Deadpool,2.0
+370,Thaddeus Ross,Abomination,11.0
+371,Thaddeus Ross,Scarlet Witch,11.0
+372,Thaddeus Ross,Annihilus,11.0
+373,Thaddeus Ross,Collector,11.0
+374,Thaddeus Ross,Sandman,11.0
+375,Thaddeus Ross,Grandmaster,11.0
+376,Thaddeus Ross,Blastaar,11.0
+377,Terrax,Galactus,3.0
+378,Terrax,Firelord,3.0
+379,Terrax,Galactus,3.0
+380,Techno,Baron Zemo,9.0
+381,Techno,Beetle,9.0
+382,Techno,Meteorite,9.0
+383,Techno,Baron Zemo,9.0
+384,Techno,Masters of Evil,9.0
+385,Techno,Growing Man,9.0
+386,Taskmaster,General Dreykov,10.0
+387,Taskmaster,General Dreykov,10.0
+388,Taskmaster,Doctor Octopus,10.0
+389,Taskmaster,Harry Osborn,10.0
+390,Taskmaster,Fenris Wolf,10.0
+391,Taskmaster,Karli Morgenthau,10.0
+392,Taserface,Ravagers,2.0
+393,Taserface,Collector,2.0
+394,Taserface,Ayesha,2.0
+395,Taserface,Nebula,2.0
+396,Taserface,Ego the Living Planet,2.0
+397,Taserface,Ayesha,2.0
+398,Taserface,Kree,2.0
+399,Taserface,Ravagers,2.0
+400,Glenn Talbot,Absorbing Man,5.0
+401,Glenn Talbot,Christian Ward,5.0
+402,Glenn Talbot,Absorbing Man,5.0
+403,Glenn Talbot,Grant Ward,5.0
+404,Glenn Talbot,Agent 33,5.0
+405,Glenn Talbot,Gideon Malick,5.0
+406,Glenn Talbot,Holden Radcliffe,5.0
+407,Glenn Talbot,Hive,5.0
+408,Glenn Talbot,Ruby Hale,5.0
+409,Glenn Talbot,Thanos,5.0
+410,Glenn Talbot,Agent 33,5.0
+411,Glenn Talbot,Grant Ward,5.0
+412,Alistair Smythe,Harry Osborn,10.0
+413,Alistair Smythe,Harry Osborn,10.0
+414,Alistair Smythe,Vulture (Marvel),10.0
+415,Alistair Smythe,Green Goblin,10.0
+416,Alistair Smythe,Ghost,10.0
+417,Skurge,Hela,9.0
+418,Skurge,Hela,9.0
+419,Skurge,Asgardians,9.0
+420,Skurge,Loki Laufeyson,9.0
+421,Skurge,Hela,9.0
+422,Skurge,Baron Zemo,9.0
+423,Skurge,Wonder Man,9.0
+424,Skurge,Loki Laufeyson,9.0
+425,Agent Jasper Sitwell,Bucky Barnes,5.0
+426,Agent Jasper Sitwell,Ultron,5.0
+427,Agent Jasper Sitwell,Loki Laufeyson,5.0
+428,Agent Jasper Sitwell,Sharon Carter,5.0
+429,Agent Jasper Sitwell,Bucky Barnes,5.0
+430,Sibyl,Freddy Malick,5.0
+431,Sibyl,Nathaniel Malick,5.0
+432,Sibyl,Deathlok (John Garrett),5.0
+433,Sibyl,Izel,5.0
+434,Sibyl,Freddy Malick,5.0
+435,Sibyl,Nathaniel Malick,5.0
+436,Sibyl,Deathlok (John Garrett),5.0
+437,Time Keepers,Miss Minutes,4.0
+438,Time Keepers,Variants,4.0
+439,Time Keepers,Miss Minutes,4.0
+440,Time Keepers,Variants,4.0
+441,Time Keepers,Ravonna Renslayer,4.0
+442,Time Keepers,Alioth,4.0
+443,Time Keepers,Kang,4.0
+444,Korath the Pursuer,Kree,2.0
+445,Korath the Pursuer,Black Order,2.0
+446,Korath the Pursuer,Hala,2.0
+447,Korath the Pursuer,Kree,2.0
+448,Korath the Pursuer,Ronan the Accuser,2.0
+449,Korath the Pursuer,Nebula,2.0
+450,Korath the Pursuer,Sakaarans,2.0
+451,Korath the Pursuer,Thanos,2.0
+452,Hela,Fenris Wolf,4.0
+453,Hela,Loki Laufeyson,4.0
+454,Hela,Loki Laufeyson,4.0
+455,Hela,Fenris Wolf,4.0
+456,Hela,Loki Laufeyson,4.0
+457,Hela,Loki Laufeyson,4.0
+458,Hela,Fenris Wolf,4.0
+459,Hela,Loki Laufeyson,4.0
+460,Hellfire (Marvel),Hive,5.0
+461,Hellfire (Marvel),Giyera,5.0
+462,Hellfire (Marvel),Holden Radcliffe,5.0
+463,Hellfire (Marvel),Hive,5.0
+464,Hive,Kree,5.0
+465,Hive,Grant Ward,5.0
+466,Hydro-Man,The Elementals,10.0
+467,Hydro-Man,Molten Man,10.0
+468,Hydro-Man,Sandman,10.0
+469,Hydro-Man,Doctor Octopus,10.0
+470,Hyperion (Marvel),Doctor Spectrum,7.0
+471,Hyperion (Marvel),Nighthawk,7.0
+472,Hyperion (Marvel),Power Princess,7.0
+473,Hyperion (Marvel),Red Skull,7.0
+474,Hyperion (Marvel),Dracula,7.0
+475,Ironclad,U-Foes,
+476,Izel,Sarge (Marvel),5.0
+477,J'son,Thanos,2.0
+478,J'son,Loki Laufeyson,2.0
+479,J'son,Ego the Living Planet,2.0
+480,Jack O'Lantern,Morgan le Fay,2.0
+481,Maya Hansen,Aldrich Killian,1.0
+482,Maya Hansen,Aldrich Killian,1.0
+483,Jackal (Marvel),Shocker,10.0
+484,Jackal (Marvel),Rhino (Marvel),10.0
+485,Jackal (Marvel),Green Goblin,10.0
+486,Frost Giants,Loki Laufeyson,4.0
+487,Frost Giants,Boastful Loki,4.0
+488,Frost Giants,President Loki,4.0
+489,Frost Giants,Asgardians,4.0
+490,Frost Giants,Malekith,4.0
+491,Frost Giants,Dark Elves,4.0
+492,Frost Giants,Loki Laufeyson,4.0
+493,Frost Giants,Masters of Evil,4.0
+494,Galactus,Terrax,3.0
+495,Galen Kor,Kree,2.0
+496,General Dreykov,Taskmaster,10.0
+497,General Dreykov,Taskmaster,10.0
+498,Ghost,Ultron,9.0
+499,Giyera,Gideon Malick,5.0
+500,Giyera,Grant Ward,5.0
+501,Giyera,Hive,5.0
+502,Giyera,Lucio,5.0
+503,Giyera,Agent Felix Blake,5.0
+504,Giyera,Hellfire (Marvel),5.0
+505,Giyera,Holden Radcliffe,5.0
+506,Giyera,Grant Ward,5.0
+507,Giyera,Gideon Malick,5.0
+508,Robert Gonzales,Grant Ward,5.0
+509,Robert Gonzales,Agent 33,5.0
+510,Robert Gonzales,Calvin Zabo,5.0
+511,Robert Gonzales,Raina,5.0
+512,Robert Gonzales,Baron Strucker,5.0
+513,Robert Gonzales,Doctor List,5.0
+514,Robert Gonzales,Freddy Malick,5.0
+515,Gordon (Marvel),Raina,5.0
+516,Gordon (Marvel),Calvin Zabo,5.0
+517,Gordon (Marvel),Raina,5.0
+518,Gordon (Marvel),Robert Gonzales,5.0
+519,Gordon (Marvel),Calvin Zabo,5.0
+520,Gordon (Marvel),Raina,5.0
+521,Gordon (Marvel),Raina,5.0
+522,Gordon (Marvel),Calvin Zabo,5.0
+523,Gordon (Marvel),Grant Ward,5.0
+524,Gordon (Marvel),Raina,5.0
+525,Grandmaster,Collector,11.0
+526,Grandmaster,Collector,11.0
+527,Grandmaster,Loki Laufeyson,11.0
+528,Green Goblin,Harry Osborn,10.0
+529,Green Goblin,Harry Osborn,10.0
+530,Green Goblin,Doctor Octopus,10.0
+531,Green Goblin,Harry Osborn,10.0
+532,Green Goblin,Venom,10.0
+533,Green Goblin,Carnage,10.0
+534,Green Goblin,Jackal (Marvel),10.0
+535,Grim Reaper,M.O.D.O.K.,9.0
+536,Grim Reaper,Wonder Man,9.0
+537,Grim Reaper,Wonder Man,9.0
+538,Grim Reaper,Baron Zemo,9.0
+539,Grim Reaper,Red Skull,9.0
+540,Grizzly,Mesmero,10.0
+541,Grizzly,Boomerang,10.0
+542,Grizzly,Shocker,10.0
+543,Growing Man,Justin Hammer,9.0
+544,Hala,Kree,2.0
+545,Hala,Ronan the Accuser,2.0
+546,Hala,Kree,2.0
+547,Ruby Hale,Werner von Strucker,5.0
+548,Ruby Hale,Daniel Whitehall,5.0
+549,Ruby Hale,Absorbing Man,5.0
+550,Ruby Hale,Baron Strucker,5.0
+551,Ruby Hale,Glenn Talbot,5.0
+552,Ruby Hale,Absorbing Man,5.0
+553,Ruby Hale,Daniel Whitehall,5.0
+554,Justin Hammer,Whiplash,11.0
+555,Justin Hammer,Whiplash,11.0
+556,Justin Hammer,Thaddeus Ross,11.0
+557,Justin Hammer,Whiplash,11.0
+558,Justin Hammer,Whiplash,11.0
+559,Jigsaw,Kingpin,8.0
+560,Jodie Tarleton,Wonder Man,11.0
+561,Jodie Tarleton,M.O.D.O.K.,11.0
+562,Jodie Tarleton,Wonder Man,11.0
+563,Jodie Tarleton,Melissa Tarleton,11.0
+564,Jodie Tarleton,Lou Tarleton,11.0
+565,Jodie Tarleton,M.O.D.O.K.,11.0
+566,Lizard,Doctor Octopus,10.0
+567,Lizard,Harry Osborn,10.0
+568,Ferdinand Lopez,Batroc,10.0
+569,Ferdinand Lopez,Batroc,10.0
+570,Lorelei,Asgardians,4.0
+571,Lorelei,Asgardians,4.0
+572,Lorelei,Loki Laufeyson,4.0
+573,Lorelei,Grant Ward,4.0
+574,Lou Tarleton,M.O.D.O.K.,11.0
+575,Lou Tarleton,Jodie Tarleton,11.0
+576,Lou Tarleton,Melissa Tarleton,11.0
+577,Lou Tarleton,M.O.D.O.K.,11.0
+578,Lucio,Gideon Malick,5.0
+579,Lucio,Giyera,5.0
+580,Lucio,Hive,5.0
+581,M.O.D.O.K.,Red Skull,11.0
+582,M.O.D.O.K.,Venom,11.0
+583,M.O.D.O.K.,Whiplash,11.0
+584,M.O.D.O.K.,Justin Hammer,11.0
+585,M.O.D.O.K.,Jodie Tarleton,11.0
+586,M.O.D.O.K.,Melissa Tarleton,11.0
+587,M.O.D.O.K.,Lou Tarleton,11.0
+588,M.O.D.O.K.,Baron Strucker,11.0
+589,M.O.D.O.K.,Beetle,11.0
+590,M.O.D.O.K.,Grandmaster,11.0
+591,M.O.D.O.K.,Red Skull,11.0
+592,Mad Thinker,Whirlwind,3.0
+593,Mad Thinker,Whirlwind,3.0
+594,Madame Hydra,Aida,8.0
+595,Madame Hydra,King Cobra,8.0
+596,Maestro,Thanos,2.0
+597,Magneto,Quicksilver,3.0
+598,Magneto,Scarlet Witch,3.0
+599,Magneto,Scarlet Witch,3.0
+600,Magneto,Quicksilver,3.0
+601,Magneto,Loki Laufeyson,3.0
+602,Magneto,Sentinel,3.0
+603,Magneto,Scarlet Witch,3.0
+604,Magneto,Quicksilver,3.0
+605,Malekith,Algrim,4.0
+606,Malekith,Dark Elves,4.0
+607,Malekith,Loki Laufeyson,4.0
+608,Malekith,Dark Elves,4.0
+609,Malekith,Thanos,4.0
+610,Freddy Malick,Gideon Malick,5.0
+611,Freddy Malick,Nathaniel Malick,5.0
+612,Freddy Malick,Gideon Malick,5.0
+613,Freddy Malick,Red Skull,5.0
+614,Freddy Malick,Viola,5.0
+615,Freddy Malick,Gideon Malick,5.0
+616,Freddy Malick,Gideon Malick,5.0
+617,Freddy Malick,Sibyl,5.0
+618,Freddy Malick,Nathaniel Malick,5.0
+619,Freddy Malick,Gideon Malick,5.0
+620,Freddy Malick,Hive,5.0
+621,Freddy Malick,Daniel Whitehall,5.0
+622,Freddy Malick,Robert Gonzales,5.0
+623,Gideon Malick,Freddy Malick,5.0
+624,Gideon Malick,Nathaniel Malick,5.0
+625,Gideon Malick,Baron Strucker,5.0
+626,Gideon Malick,Alexander Pierce,5.0
+627,Gideon Malick,Daniel Whitehall,5.0
+628,Gideon Malick,Deathlok (John Garrett),5.0
+629,Gideon Malick,Grant Ward,5.0
+630,Gideon Malick,Kebo,5.0
+631,Gideon Malick,Giyera,5.0
+632,Gideon Malick,Lucio,5.0
+633,Gideon Malick,Hive,5.0
+634,Gideon Malick,Grant Ward,5.0
+635,Gideon Malick,Giyera,5.0
+636,Gideon Malick,Grant Ward,5.0
+637,Gideon Malick,Loki Laufeyson,5.0
+638,Gideon Malick,Chitauri,5.0
+639,Gideon Malick,Hive,5.0
+640,Gideon Malick,Werner von Strucker,5.0
+641,Gideon Malick,Glenn Talbot,5.0
+642,Gideon Malick,Doctor List,5.0
+643,Gideon Malick,Grant Ward,5.0
+644,Nathaniel Malick,Freddy Malick,5.0
+645,Nathaniel Malick,Gideon Malick,5.0
+646,Nathaniel Malick,Freddy Malick,5.0
+647,Nathaniel Malick,Gideon Malick,5.0
+648,Nathaniel Malick,Freddy Malick,5.0
+649,Nathaniel Malick,Hive,5.0
+650,Nathaniel Malick,Sibyl,5.0
+651,Nathaniel Malick,Freddy Malick,5.0
+652,Nathaniel Malick,Gideon Malick,5.0
+653,Nathaniel Malick,Hive,5.0
+654,Nathaniel Malick,Daniel Whitehall,5.0
+655,Nathaniel Malick,Sibyl,5.0
+656,Nathaniel Malick,Gordon (Marvel),5.0
+657,Nathaniel Malick,Deathlok (John Garrett),5.0
+658,Nathaniel Malick,Daniel Whitehall,5.0
+659,Nathaniel Malick,Grant Ward,5.0
+660,Leader,Abomination,11.0
+661,Leader,Annihilus,11.0
+662,Leader,Annihilus,11.0
+663,Morgan le Fay,Jack O'Lantern,2.0
+664,Morgan le Fay,Thanos,2.0
+665,Loki Laufeyson,Thanos,4.0
+666,Loki Laufeyson,Laufey,4.0
+667,Loki Laufeyson,Hela,4.0
+668,Loki Laufeyson,Variants,4.0
+669,Loki Laufeyson,Thanos,4.0
+670,Loki Laufeyson,Laufey,4.0
+671,Loki Laufeyson,Hela,4.0
+672,Loki Laufeyson,Thanos,4.0
+673,Loki Laufeyson,Hela,4.0
+674,Loki Laufeyson,Thanos,4.0
+675,Loki Laufeyson,Variants,4.0
+676,Loki Laufeyson,Laufey,4.0
+677,Loki Laufeyson,Frost Giants,4.0
+678,Loki Laufeyson,Asgardians,4.0
+679,Loki Laufeyson,Dark Elves,4.0
+680,Loki Laufeyson,Hela,4.0
+681,Loki Laufeyson,Asgardians,4.0
+682,Loki Laufeyson,Thanos,4.0
+683,Loki Laufeyson,Dark Elves,4.0
+684,Loki Laufeyson,Alioth,4.0
+685,Loki Laufeyson,Time Keepers,4.0
+686,Loki Laufeyson,Thanos,4.0
+687,Loki Laufeyson,Algrim,4.0
+688,Loki Laufeyson,Grandmaster,4.0
+689,Loki Laufeyson,Thanos,4.0
+690,Loki Laufeyson,Black Order,4.0
+691,Loki Laufeyson,Proxima Midnight,4.0
+692,Loki Laufeyson,Alexander Pierce,4.0
+693,Loki Laufeyson,Miss Minutes,4.0
+694,Loki Laufeyson,Time Keepers,4.0
+695,Loki Laufeyson,Variants,4.0
+696,Loki Laufeyson,Ravonna Renslayer,4.0
+697,Loki Laufeyson,Dark Elves,4.0
+698,Loki Laufeyson,Thanos,4.0
+699,Loki Laufeyson,Roxxon Corporation,4.0
+700,Loki Laufeyson,Variants,4.0
+701,Loki Laufeyson,Boastful Loki,4.0
+702,Loki Laufeyson,Alioth,4.0
+703,Loki Laufeyson,President Loki,4.0
+704,Loki Laufeyson,Kang,4.0
+705,Loki Laufeyson,Asgardians,4.0
+706,Loki Laufeyson,Destroyer,4.0
+707,Loki Laufeyson,Frost Giants,4.0
+708,Loki Laufeyson,Midgard Serpent,4.0
+709,Loki Laufeyson,Ravonna Renslayer,4.0
+710,Loki Laufeyson,Hela,4.0
+711,Loki Laufeyson,Fenris Wolf,4.0
+712,Loki Laufeyson,Boastful Loki,4.0
+713,Loki Laufeyson,President Loki,4.0
+714,Laufey,Frost Giants,4.0
+715,Laufey,Frost Giants,4.0
+716,Laufey,Asgardians,4.0
+717,Laufey,Loki Laufeyson,4.0
+718,Laufey,Frost Giants,4.0
+719,Laufey,Loki Laufeyson,4.0
+720,Juggernaut,Deadpool,3.0
+721,Juggernaut,Arcade,3.0
+722,Kaecilius,Zealots,6.0
+723,Kaecilius,Zealots,6.0
+724,Kaecilius,Dormammu,6.0
+725,Kaecilius,Zealots,6.0
+726,Kaecilius,Zealots,6.0
+727,Kaecilius,Zealots,6.0
+728,Kaecilius,Dormammu,6.0
+729,Kaine,Scarlet Spider,10.0
+730,Kaine,Doctor Octopus,10.0
+731,Kang,Variants,4.0
+732,Kang,Time Keepers,4.0
+733,Kang,Miss Minutes,4.0
+734,Kang,Variants,4.0
+735,Kang,Variants,4.0
+736,Kang,Variants,4.0
+737,Kang,Alioth,4.0
+738,Kang,Time Keepers,4.0
+739,Kang,Miss Minutes,4.0
+740,Kang,Variants,4.0
+741,Kang,Miss Minutes,4.0
+742,Kang,Time Keepers,4.0
+743,Kang,Alioth,4.0
+744,Kang,Agatha Harkness,4.0
+745,Kang,Sharon Carter,4.0
+746,Kang,Time Keepers,4.0
+747,Karli Morgenthau,U.S. Agent,9.0
+748,Karli Morgenthau,Sharon Carter,9.0
+749,Karli Morgenthau,Bucky Barnes,9.0
+750,Karli Morgenthau,U.S. Agent,9.0
+751,Karli Morgenthau,Thanos,9.0
+752,Karli Morgenthau,Dr. Nagel,9.0
+753,Karli Morgenthau,Sharon Carter,9.0
+754,Karli Morgenthau,Bucky Barnes,9.0
+755,Karli Morgenthau,U.S. Agent,9.0
+756,Karli Morgenthau,Baron Zemo,9.0
+757,Karli Morgenthau,Batroc,9.0
+758,Karli Morgenthau,U.S. Agent,9.0
+759,Karli Morgenthau,Sharon Carter,9.0
+760,Karli Morgenthau,Batroc,9.0
+761,Karli Morgenthau,Ghost,9.0
+762,Karli Morgenthau,Taskmaster,9.0
+763,Karli Morgenthau,Sharon Carter,9.0
+764,Kasius,Sinara,2.0
+765,Kasius,Kree,2.0
+766,Frightful Four,Doctor Octopus,10.0
+767,Frightful Four,Green Goblin,10.0
+768,Frightful Four,Wizard (Marvel),10.0
+769,Frightful Four,Trapster,10.0
+770,Kebo,Grant Ward,5.0
+771,Kebo,Gideon Malick,5.0
+772,Kebo,Werner von Strucker,5.0
+773,Kebo,Werner von Strucker,5.0
+774,Kebo,Grant Ward,5.0
+775,Aldrich Killian,Maya Hansen,1.0
+776,Aldrich Killian,Vice President Rodriguez,1.0
+777,Aldrich Killian,Eric Savin,1.0
+778,Aldrich Killian,Ellen Brandt,1.0
+779,Aldrich Killian,Maya Hansen,1.0
+780,Aldrich Killian,Maya Hansen,1.0
+781,Aldrich Killian,Maya Hansen,1.0
+782,Aldrich Killian,Eric Savin,1.0
+783,Aldrich Killian,Yon-Rogg,1.0
+784,Erik Killmonger,N'Jobu,3.0
+785,Erik Killmonger,Ulysses Klaue,3.0
+786,Erik Killmonger,N'Jobu,3.0
+787,Erik Killmonger,Ulysses Klaue,3.0
+788,Erik Killmonger,W'Kabi,3.0
+789,Ulysses Klaue,Ultron,3.0
+790,Ulysses Klaue,Quicksilver,3.0
+791,Ulysses Klaue,Scarlet Witch,3.0
+792,Ulysses Klaue,Erik Killmonger,3.0
+793,Ulysses Klaue,Ultron,3.0
+794,Ulysses Klaue,Whirlwind,3.0
+795,Ulysses Klaue,Grim Reaper,3.0
+796,Ulysses Klaue,Trapster,3.0
+797,Ulysses Klaue,Trapster,3.0
+798,Ulysses Klaue,Wizard (Marvel),3.0
+799,Michael Korvac,J'son,2.0
+800,Michael Korvac,Kree,2.0
+801,Michael Korvac,Chitauri,2.0
+802,Kraven,Doctor Octopus,10.0
+803,Kraven,Beetle,10.0
+804,Kraven,Rhino (Marvel),10.0
+805,Kraven,Lizard,10.0
+806,Kraven,Electro,10.0
+807,Kraven,Taskmaster,10.0
+808,Kraven,Scorpion,10.0
+809,Kraven,Hydro-Man,10.0
+810,Kraven,Molten Man,10.0
+811,Kraven,Vulture (Marvel),10.0
+812,Kraven,Scarlet Spider,10.0
+813,Kraven,Doctor Octopus,10.0
+814,Kree,Ronan the Accuser,2.0
+815,Kree,Korath the Pursuer,2.0
+816,Kree,Dr. Minn-Erva,2.0
+817,Kree,Kasius,2.0
+818,Kree,Sinara,2.0
+819,Kree,Hala,2.0
+820,Kree,Yon-Rogg,2.0
+821,Kree,Ronan the Accuser,2.0
+822,Kree,Thanos,2.0
+823,Man-Wolf,Harry Osborn,10.0
+824,Fire Demons,Amora the Enchantress,9.0
+825,Fire Demons,Amora the Enchantress,9.0
+826,Bucky Barnes,U.S. Agent,9.0
+827,Bucky Barnes,Alexander Pierce,9.0
+828,Bucky Barnes,Agent Jasper Sitwell,9.0
+829,Bucky Barnes,Red Skull,9.0
+830,Bucky Barnes,Red Skull,9.0
+831,Baron Strucker,Doctor List,5.0
+832,Baron Strucker,Daniel Whitehall,5.0
+833,Baron Strucker,Gideon Malick,5.0
+834,Baron Strucker,Agent Jasper Sitwell,5.0
+835,Baron Strucker,Ulysses Klaue,5.0
+836,Baron Strucker,Quicksilver,5.0
+837,Baron Strucker,Scarlet Witch,5.0
+838,Baron Strucker,Doctor List,5.0
+839,Baron Strucker,Scarlet Witch,5.0
+840,Baron Strucker,Quicksilver,5.0
+841,Baron Strucker,Ultron,5.0
+842,Baron Strucker,Doctor List,5.0
+843,Baron Strucker,Scarlet Witch,5.0
+844,Baron Strucker,Quicksilver,5.0
+845,Baron Strucker,Daniel Whitehall,5.0
+846,Baron Strucker,Ultron,5.0
+847,Baron Strucker,Red Skull,5.0
+848,Baron Strucker,Grim Reaper,5.0
+849,Baron Strucker,Baron Zemo,5.0
+850,Batroc,Venom,10.0
+851,Batroc,Electro,10.0
+852,Beetle,Doctor Octopus,9.0
+853,Beetle,Masters of Evil,9.0
+854,Beetle,Doctor Doom,9.0
+855,Beetle,Masters of Evil,9.0
+856,Beetle,Baron Zemo,9.0
+857,Beetle,Doctor Octopus,9.0
+858,Beetle,Baron Zemo,9.0
+859,Beetle,Doctor Octopus,9.0
+860,Beetle,Masters of Evil,9.0
+861,Beetle,Baron Zemo,9.0
+862,Beetle,Masters of Evil,9.0
+863,Beetle,Growing Man,9.0
+864,Black Mariah,Cottonmouth,8.0
+865,Black Mariah,Shades,8.0
+866,Black Mariah,Diamondback,8.0
+867,Black Mariah,Cottonmouth,8.0
+868,Black Mariah,Cottonmouth,8.0
+869,Black Mariah,Kingpin,8.0
+870,Black Mariah,Shades,8.0
+871,Black Mariah,Cottonmouth,8.0
+872,Black Order,Thanos,2.0
+873,Black Order,Ebony Maw,2.0
+874,Black Order,Proxima Midnight,2.0
+875,Black Order,Corvus Glaive,2.0
+876,Black Order,Chitauri,2.0
+877,Black Order,Thanos,2.0
+878,Black Order,Ebony Maw,2.0
+879,Black Order,Proxima Midnight,2.0
+880,Black Order,Corvus Glaive,2.0
+881,Agent Felix Blake,Grant Ward,5.0
+882,Agent Felix Blake,Agent Jasper Sitwell,5.0
+883,Agent Felix Blake,Giyera,5.0
+884,Agent Felix Blake,Chitauri,5.0
+885,Blastaar,Leader,11.0
+886,Blizzard,Grant Ward,5.0
+887,Boastful Loki,Variants,4.0
+888,Boastful Loki,Variants,4.0
+889,Boastful Loki,Loki Laufeyson,4.0
+890,Boastful Loki,Variants,4.0
+891,Boastful Loki,Alioth,4.0
+892,Boastful Loki,President Loki,4.0
+893,Boastful Loki,Loki Laufeyson,4.0
+894,Boastful Loki,President Loki,4.0
+895,Boomerang,Grizzly,10.0
+896,Boomerang,Shocker,10.0
+897,Boomerang,Doctor Octopus,10.0
+898,Boomerang,Mesmero,10.0
+899,Boomerang,Grizzly,10.0
+900,Boomerang,Shocker,10.0
+901,Brahl,Ravagers,2.0
+902,Ellen Brandt,Aldrich Killian,1.0
+903,Ellen Brandt,Eric Savin,1.0
+904,Sunil Bakshi,Daniel Whitehall,5.0
+905,Sunil Bakshi,Doctor List,5.0
+906,Sunil Bakshi,Grant Ward,5.0
+907,Sunil Bakshi,Deathlok (John Garrett),5.0
+908,Sunil Bakshi,Agent 33,5.0
+909,Sunil Bakshi,Blizzard,5.0
+910,Sunil Bakshi,Calvin Zabo,5.0
+911,Sunil Bakshi,Baron Strucker,5.0
+912,Sunil Bakshi,Absorbing Man,5.0
+913,Sunil Bakshi,Grant Ward,5.0
+914,Sunil Bakshi,Agent 33,5.0
+915,Sunil Bakshi,Blizzard,5.0
+916,Sunil Bakshi,Glenn Talbot,5.0
+917,Sunil Bakshi,Daniel Whitehall,5.0
+918,Sunil Bakshi,Grant Ward,5.0
+919,Sunil Bakshi,Agent 33,5.0
+920,Sunil Bakshi,Doctor List,5.0
+921,Ayesha,Ego the Living Planet,2.0
+922,Attuma,Collector,2.0
+923,Abomination,Leader,9.0
+924,Abomination,Baron Zemo,9.0
+925,Absorbing Man,Raina,5.0
+926,Absorbing Man,Glenn Talbot,5.0
+927,Absorbing Man,Ruby Hale,5.0
+928,Absorbing Man,Glenn Talbot,5.0
+929,Absorbing Man,Grant Ward,5.0
+930,Absorbing Man,Gideon Malick,5.0
+931,Absorbing Man,Daniel Whitehall,5.0
+932,Absorbing Man,Ruby Hale,5.0
+933,Absorbing Man,Abomination,5.0
+934,Absorbing Man,Leader,5.0
+935,Absorbing Man,Annihilus,5.0
+936,Absorbing Man,Loki Laufeyson,5.0
+937,Agatha Harkness,Scarlet Witch,3.0
+938,Agatha Harkness,Scarlet Witch,3.0
+939,Agatha Harkness,Quicksilver,3.0
+940,Agatha Harkness,Loki Laufeyson,3.0
+941,Agatha Harkness,Director Hayward,3.0
+942,Agatha Harkness,Loki Laufeyson,3.0
+943,Agatha Harkness,Sharon Carter,3.0
+944,Agent 33,Daniel Whitehall,5.0
+945,Agent 33,Grant Ward,5.0
+946,Agent 33,Daniel Whitehall,5.0
+947,Aida,Madame Hydra,8.0
+948,Aida,Holden Radcliffe,8.0
+949,Aida,Holden Radcliffe,8.0
+950,Aida,Madame Hydra,8.0
+951,Aida,Holden Radcliffe,8.0
+952,Aida,Holden Radcliffe,8.0
+953,Aida,Madame Hydra,8.0
+954,Algrim,Dark Elves,4.0
+955,Algrim,Dark Elves,4.0
+956,Algrim,Loki Laufeyson,4.0
+957,Alioth,Boastful Loki,4.0
+958,Alioth,Variants,4.0
+959,Alioth,Variants,4.0
+960,Alioth,Kang,4.0
+961,Alioth,Ravonna Renslayer,4.0
+962,Alioth,Variants,4.0
+963,Alioth,Boastful Loki,4.0
+964,Amora the Enchantress,Lorelei,9.0
+965,Amora the Enchantress,Loki Laufeyson,9.0
+966,Amora the Enchantress,Skurge,9.0
+967,Amora the Enchantress,Baron Zemo,9.0
+968,Amora the Enchantress,Wonder Man,9.0
+969,Amora the Enchantress,Crimson Dynamo,9.0
+970,Amora the Enchantress,Leader,9.0
+971,Amora the Enchantress,Abomination,9.0
+972,Amora the Enchantress,Malekith,9.0
+973,Amora the Enchantress,Ultron,9.0
+974,Amora the Enchantress,Chemistro,9.0
+975,Amora the Enchantress,Fire Demons,9.0
+976,Amora the Enchantress,Midgard Serpent,9.0
+977,Amora the Enchantress,Destroyer,9.0
+978,Amora the Enchantress,Leader,9.0
+979,Amora the Enchantress,Kang,9.0
+980,Angar the Screamer,Calvin Zabo,5.0
+981,Annihilus,Leader,11.0
+982,Annihilus,Leader,11.0
+983,Arcade,M.O.D.O.K.,3.0
+984,Ares (Marvel),Grandmaster,11.0
+985,Ares (Marvel),Grandmaster,11.0
+986,Asgardians,Boastful Loki,4.0
+987,Asgardians,Hela,4.0
+988,Asgardians,Loki Laufeyson,4.0
+989,Asgardians,Lorelei,4.0
+990,Asgardians,President Loki,4.0
+991,Asgardians,Skurge,4.0
+992,Asgardians,Loki Laufeyson,4.0
+993,Asgardians,Thanos,4.0
+994,Asgardians,The Other,4.0
+995,Asgardians,Chitauri,4.0
+996,Asgardians,Malekith,4.0
+997,Lucian Aster,Kaecilius,6.0
+998,Lucian Aster,Dormammu,6.0
+999,Auran,Maximus the Mad,
+1000,Carnage,Harry Osborn,10.0
+1001,Carnage,Venom,10.0
+1002,Carnage,Venom,10.0
+1003,Carnage,Green Goblin,10.0
+1004,Carnage,Venom,10.0
+1005,Carnage,Doctor Octopus,10.0
+1006,Carnage,Shriek,10.0
+1007,Carnage,Lizard,10.0
+1008,Carnage,Thanos,10.0
+1009,Sharon Carter,Scarlet Witch,9.0
+1010,Sharon Carter,Thanos,9.0
+1011,Sharon Carter,Baron Zemo,9.0
+1012,Sharon Carter,Thanos,9.0
+1013,Sharon Carter,Agatha Harkness,9.0
+1014,Centipede Project,Raina,5.0
+1015,Doctor List,Daniel Whitehall,5.0
+1016,Doctor List,Grant Ward,5.0
+1017,Doctor Spectrum,Nighthawk,7.0
+1018,Doctor Spectrum,Power Princess,7.0
+1019,Doombots,Doctor Doom,9.0
+1020,Dormammu,Mindless Ones,6.0
+1021,Dormammu,Kaecilius,6.0
+1022,Dracula,Frankenstein's Monster,7.0
+1023,Dracula,Red Skull,7.0
+1024,Ebony Maw,Black Order,2.0
+1025,Ebony Maw,Black Order,2.0
+1026,Ebony Maw,Thanos,2.0
+1027,Ebony Maw,Proxima Midnight,2.0
+1028,Ebony Maw,Corvus Glaive,2.0
+1029,Ebony Maw,Nebula,2.0
+1030,Ebony Maw,Thanos,2.0
+1031,Ebony Maw,Asgardians,2.0
+1032,Ebony Maw,Thanos,2.0
+1033,Ebony Maw,Thanos,2.0
+1034,Ebony Maw,Black Order,2.0
+1035,Ebony Maw,Thanos,2.0
+1036,Ebony Maw,Black Order,2.0
+1037,Ebony Maw,Chitauri,2.0
+1038,Ebony Maw,Thanos,2.0
+1039,Ebony Maw,Nebula,2.0
+1040,Ebony Maw,Black Order,2.0
+1041,Ego the Living Planet,J'son,2.0
+1042,Ego the Living Planet,Ravagers,2.0
+1043,Ego the Living Planet,Ayesha,2.0
+1044,Ego the Living Planet,Nebula,2.0
+1045,Ego the Living Planet,Ayesha,2.0
+1046,Ego the Living Planet,Hela,2.0
+1047,Ego the Living Planet,Kree,2.0
+1048,Ego the Living Planet,J'son,2.0
+1049,The Elementals,Sandman,10.0
+1050,The Elementals,Molten Man,10.0
+1051,The Elementals,Hydro-Man,10.0
+1052,The Elementals,Sandman,10.0
+1053,The Elementals,Molten Man,10.0
+1054,The Elementals,Hydro-Man,10.0
+1055,Ellen Nadeer,Holden Radcliffe,5.0
+1056,Ellen Nadeer,Glenn Talbot,5.0
+1057,Ellen Nadeer,Chitauri,5.0
+1058,Enhanced Individuals,Vulture (Marvel),10.0
+1059,Enhanced Individuals,Thanos,10.0
+1060,Erik Josten,Baron Zemo,9.0
+1061,Erik Josten,Beetle,9.0
+1062,Erik Josten,Techno,9.0
+1063,Erik Josten,Meteorite,9.0
+1064,Erik Josten,Baron Zemo,9.0
+1065,Erik Josten,Growing Man,9.0
+1066,Johann Fennhoff,Dottie Underwood,
+1067,Fenris Wolf,Hela,10.0
+1068,Fenris Wolf,Asgardians,10.0
+1069,Fenris Wolf,Hela,10.0
+1070,Fenris Wolf,Red Skull,10.0
+1071,Fenris Wolf,Bucky Barnes,10.0
+1072,Fenris Wolf,Venom,10.0
+1073,Fenris Wolf,Loki Laufeyson,10.0
+1074,Fenris Wolf,Doctor Octopus,10.0
+1075,Fenris Wolf,Ulik,10.0
+1076,Fenris Wolf,Hela,10.0
+1077,Fenris Wolf,Loki Laufeyson,10.0
+1078,Doctor Doom,Red Skull,9.0
+1079,Director Hayward,Scarlet Witch,3.0
+1080,Director Hayward,Scarlet Witch,3.0
+1081,Director Hayward,Scarlet Witch,3.0
+1082,Director Hayward,Scarlet Witch,3.0
+1083,Diamondback,Loki Laufeyson,8.0
+1084,Diamondback,Cottonmouth,8.0
+1085,Diamondback,Black Mariah,8.0
+1086,Diamondback,Black Mariah,8.0
+1087,Diamondback,Shades,8.0
+1088,Diamondback,Cottonmouth,8.0
+1089,Destroyer,Asgardians,4.0
+1090,Destroyer,Loki Laufeyson,4.0
+1091,Destroyer,Loki Laufeyson,4.0
+1092,Destroyer,Doctor Doom,4.0
+1093,Chemistro,Trapster,9.0
+1094,Chitauri,Thanos,2.0
+1095,Chitauri,Loki Laufeyson,2.0
+1096,Chitauri,Nebula,2.0
+1097,Chitauri,Thanos,2.0
+1098,Chitauri,Thanos,2.0
+1099,Chitauri,The Other,2.0
+1100,Chitauri,Loki Laufeyson,2.0
+1101,Chitauri,Ebony Maw,2.0
+1102,Chitauri,Corvus Glaive,2.0
+1103,Chitauri,Proxima Midnight,2.0
+1104,Chitauri,Grant Ward,2.0
+1105,Chitauri,Thanos,2.0
+1106,Chitauri,Kree,2.0
+1107,Christian Ward,Grant Ward,5.0
+1108,Christian Ward,Glenn Talbot,5.0
+1109,Christian Ward,Grant Ward,5.0
+1110,Christian Ward,Grant Ward,5.0
+1111,King Cobra,Serpent Society,8.0
+1112,King Cobra,Serpent Society,8.0
+1113,Collector,Grandmaster,2.0
+1114,Collector,Thanos,2.0
+1115,Collector,Thanos,2.0
+1116,Collector,Grandmaster,2.0
+1117,Constrictor,Serpent Society,8.0
+1118,Constrictor,King Cobra,8.0
+1119,Constrictor,Rattler,8.0
+1120,Constrictor,Death Adder,8.0
+1121,Firelord,Galactus,3.0
+1122,Corvus Glaive,Black Order,2.0
+1123,Corvus Glaive,Black Order,2.0
+1124,Corvus Glaive,Thanos,2.0
+1125,Corvus Glaive,Ebony Maw,2.0
+1126,Corvus Glaive,Nebula,2.0
+1127,Corvus Glaive,Proxima Midnight,2.0
+1128,Corvus Glaive,Thanos,2.0
+1129,Crimson Dynamo,Baron Zemo,9.0
+1130,Crimson Dynamo,Abomination,9.0
+1131,Crimson Dynamo,Chemistro,9.0
+1132,Crimson Dynamo,Wonder Man,9.0
+1133,Crimson Dynamo,Amora the Enchantress,9.0
+1134,Crimson Dynamo,Skurge,9.0
+1135,Crimson Dynamo,Wonder Man,9.0
+1136,Crimson Dynamo,Abomination,9.0
+1137,Crimson Dynamo,Wonder Man,9.0
+1138,Dark Elves,Algrim,4.0
+1139,Dark Elves,Asgardians,4.0
+1140,Deadpool,Thanos,3.0
+1141,Deadpool,Taskmaster,3.0
+1142,Deadpool,Sabretooth,3.0
+1143,Deadpool,Harry Osborn,3.0
+1144,Deadpool,Juggernaut,3.0
+1145,Deadpool,Sabretooth,3.0
+1146,Death Adder,Serpent Society,8.0
+1147,Deathlok (John Garrett),Alexander Pierce,5.0
+1148,Deathlok (John Garrett),Gideon Malick,5.0
+1149,Deathlok (John Garrett),Grant Ward,5.0
+1150,Deathlok (John Garrett),Agent Jasper Sitwell,5.0
+1151,Deathlok (John Garrett),Sunil Bakshi,5.0
+1152,Deathlok (John Garrett),Absorbing Man,5.0
+1153,Deathlok (John Garrett),Raina,5.0
+1154,Deathlok (John Garrett),Nathaniel Malick,5.0
+1155,Deathlok (John Garrett),Grant Ward,5.0
+1156,Deathlok (John Garrett),Raina,5.0
+1157,Deathlok (John Garrett),Agent Felix Blake,5.0
+1158,Deathlok (John Garrett),Gordon (Marvel),5.0
+1159,Deathlok (John Garrett),Nathaniel Malick,5.0
+1160,Deathlok (John Garrett),Sibyl,5.0
+1161,Deathlok (John Garrett),Grant Ward,5.0
+1162,Deathlok (John Garrett),Raina,5.0
+1163,Deathlok (John Garrett),Kree,5.0
+1164,Deathlok (John Garrett),Nathaniel Malick,5.0
+1165,Deathlok (John Garrett),Gordon (Marvel),5.0
+1166,Demon Bear,Cecilia Reyes,
+1167,Demon Bear,Cecilia Reyes,
+1168,Cottonmouth,Shades,8.0
+1169,Cottonmouth,Diamondback,8.0
+1170,Cottonmouth,Black Mariah,8.0
+1171,Cottonmouth,Shades,8.0
+1172,Cottonmouth,Black Mariah,8.0
+1173,Miss Minutes,Time Keepers,4.0
+1174,Miss Minutes,Ravonna Renslayer,4.0
+1175,Miss Minutes,Time Keepers,4.0
+1176,Miss Minutes,Variants,4.0
+1177,Miss Minutes,Ravonna Renslayer,4.0
+1178,Miss Minutes,Thanos,4.0
+1179,Meteorite,Baron Zemo,9.0
+1180,Meteorite,Beetle,9.0
+1181,Meteorite,Baron Zemo,9.0
+1182,Meteorite,Kree,9.0
+1183,Meteorite,Growing Man,9.0
+1184,Midgard Serpent,Loki Laufeyson,9.0
+1185,Midgard Serpent,Doctor Doom,9.0
+1186,Midgard Serpent,Loki Laufeyson,9.0
+1187,Midgard Serpent,Doctor Doom,9.0
+1188,Rhino (Marvel),Jackal (Marvel),10.0
+1189,Rhino (Marvel),Harry Osborn,10.0
+1190,The Other,Thanos,2.0
+1191,The Other,Black Order,2.0
+1192,The Other,Chitauri,2.0
+1193,The Other,Thanos,2.0
+1194,The Other,Loki Laufeyson,2.0
+1195,The Other,Chitauri,2.0
+1196,The Other,Collector,2.0
+1197,The Other,Ronan the Accuser,2.0
+1198,The Other,Korath the Pursuer,2.0
+1199,The Other,Nebula,2.0
+1200,The Other,Loki Laufeyson,2.0
+1201,The Other,Chitauri,2.0
+1202,The Other,Thanos,2.0
+1203,The Other,Thanos,2.0
+1204,The Other,Loki Laufeyson,2.0
+1205,The Other,Chitauri,2.0
+1206,The Other,Ronan the Accuser,2.0
+1207,The Other,Thanos,2.0
+1208,The Other,Loki Laufeyson,2.0
+1209,The Other,Ronan the Accuser,2.0
+1210,The Other,Nebula,2.0
+1211,The Other,Abomination,2.0
+1212,The Other,Leader,2.0
+1213,The Other,Loki Laufeyson,2.0
+1214,The Other,Red Skull,2.0
+1215,The Other,Baron Zemo,2.0
+1216,The Other,Vulture (Marvel),2.0
+1217,The Other,Thanos,2.0
+1218,The Other,Ghost,2.0
+1219,The Other,Agatha Harkness,2.0
+1220,Proxima Midnight,Black Order,2.0
+1221,Proxima Midnight,Black Order,2.0
+1222,Proxima Midnight,Thanos,2.0
+1223,Proxima Midnight,Ebony Maw,2.0
+1224,Proxima Midnight,Nebula,2.0
+1225,Proxima Midnight,Corvus Glaive,2.0
+1226,Proxima Midnight,Black Order,2.0
+1227,Proxima Midnight,Thanos,2.0
+1228,Proxima Midnight,Thanos,2.0
+1229,Cecilia Reyes,Demon Bear,
+1230,Cecilia Reyes,Demon Bear,
+1231,Mindless Ones,Kaecilius,6.0
+1232,Mindless Ones,Dormammu,6.0
+1233,Mindless Ones,Kaecilius,6.0
+1234,Mindless Ones,Zealots,6.0
+1235,Mindless Ones,Kaecilius,6.0
+1236,Dr. Minn-Erva,Kree,2.0
+1237,Dr. Minn-Erva,Kree,2.0
+1238,Harry Osborn,Venom,10.0
+1239,Harry Osborn,Green Goblin,10.0
+1240,Harry Osborn,Green Goblin,10.0
+1241,Harry Osborn,Venom,10.0
+1242,Harry Osborn,Doctor Octopus,10.0
+1243,Harry Osborn,Batroc,10.0
+1244,Harry Osborn,Venom,10.0
+1245,Harry Osborn,Green Goblin,10.0
+1246,Harry Osborn,Venom,10.0
+1247,Mister Negative,Hammerhead,10.0
+1248,Red Skull,Thanos,9.0
+1249,Red Skull,Whiplash,9.0
+1250,Red Skull,Venom,9.0
+1251,Red Skull,Baron Zemo,9.0
+1252,Red Skull,Abomination,9.0
+1253,Red Skull,Graviton,9.0
+1254,Red Skull,Masters of Evil,9.0
+1255,Red Skull,Thanos,9.0
+1256,Ravonna Renslayer,Time Keepers,4.0
+1257,Ravonna Renslayer,Variants,4.0
+1258,Ravonna Renslayer,Variants,4.0
+1259,Ravonna Renslayer,Time Keepers,4.0
+1260,Ravonna Renslayer,Time Keepers,4.0
+1261,Ravonna Renslayer,Time Keepers,4.0
+1262,Ravonna Renslayer,Time Keepers,4.0
+1263,Ravonna Renslayer,Roxxon Corporation,4.0
+1264,Ravonna Renslayer,Miss Minutes,4.0
+1265,Ravonna Renslayer,Variants,4.0
+1266,Ravonna Renslayer,Loki Laufeyson,4.0
+1267,Ravonna Renslayer,Kang,4.0
+1268,Mesmero,Sabretooth,10.0
+1269,Molten Man,The Elementals,10.0
+1270,Molten Man,Hydro-Man,10.0
+1271,Molten Man,Sandman,10.0
+1272,Quicksilver,Scarlet Witch,3.0
+1273,Quicksilver,Scarlet Witch,3.0
+1274,Quicksilver,Scarlet Witch,3.0
+1275,Quicksilver,Scarlet Witch,3.0
+1276,Quicksilver,Doctor List,3.0
+1277,Quicksilver,Baron Strucker,3.0
+1278,Quicksilver,Ultron,3.0
+1279,Quicksilver,Ulysses Klaue,3.0
+1280,Quicksilver,Loki Laufeyson,3.0
+1281,Quicksilver,Scarlet Witch,3.0
+1282,Quicksilver,Ultron,3.0
+1283,Quicksilver,Agatha Harkness,3.0
+1284,Quicksilver,Deadpool,3.0
+1285,Quicksilver,Jean Grey,3.0
+1286,Quicksilver,Magneto,3.0
+1287,Quicksilver,Agatha Harkness,3.0
+1288,Doctor Octopus,Venom,10.0
+1289,Doctor Octopus,Carnage,10.0
+1290,Doctor Octopus,Wolf Spider,10.0
+1291,Doctor Octopus,Green Goblin,10.0
+1292,Doctor Octopus,Venom,10.0
+1293,Doctor Octopus,Green Goblin,10.0
+1294,Doctor Octopus,Venom,10.0
+1295,Doctor Octopus,Harry Osborn,10.0
+1296,Doctor Octopus,Lizard,10.0
+1297,Doctor Octopus,Rhino (Marvel),10.0
+1298,Doctor Octopus,Electro,10.0
+1299,Doctor Octopus,Kraven,10.0
+1300,Doctor Octopus,Beetle,10.0
+1301,Doctor Octopus,Crimson Dynamo,10.0
+1302,Holden Radcliffe,Ellen Nadeer,5.0
+1303,Holden Radcliffe,Aida,5.0
+1304,Holden Radcliffe,Hive,5.0
+1305,Holden Radcliffe,Giyera,5.0
+1306,Holden Radcliffe,Hellfire (Marvel),5.0
+1307,Holden Radcliffe,Aida,5.0
+1308,Holden Radcliffe,Hive,5.0
+1309,Holden Radcliffe,Glenn Talbot,5.0
+1310,Radioactive Man,Leader,11.0
+1311,Radioactive Man,Annihilus,11.0
+1312,Radioactive Man,Crimson Dynamo,11.0
+1313,N'Jobu,Erik Killmonger,3.0
+1314,N'Jobu,Erik Killmonger,3.0
+1315,N'Jobu,Erik Killmonger,3.0
+1316,Dr. Nagel,Selby,9.0
+1317,Dr. Nagel,Baron Zemo,9.0
+1318,Dr. Nagel,Sharon Carter,9.0
+1319,Dr. Nagel,Bucky Barnes,9.0
+1320,Dr. Nagel,Baron Zemo,9.0
+1321,Dr. Nagel,Karli Morgenthau,9.0
+1322,Dr. Nagel,Bucky Barnes,9.0
+1323,Dr. Nagel,Baron Zemo,9.0
+1324,Raina,Calvin Zabo,5.0
+1325,Raina,Centipede Project,5.0
+1326,Raina,Grant Ward,5.0
+1327,Raina,Grant Ward,5.0
+1328,Raina,Gordon (Marvel),5.0
+1329,Nuke,Nighthawk,7.0
+1330,Nuke,Power Princess,7.0
+1331,Nuke,Doctor Spectrum,7.0
+1332,Ravagers,Brahl,2.0
+1333,Ravagers,Taserface,2.0
+1334,Ravagers,Korath the Pursuer,2.0
+1335,Ravagers,Taserface,2.0
+1336,Ravagers,Brahl,2.0
+1337,Nebula,Thanos,2.0
+1338,Nebula,Thanos,2.0
+1339,Nebula,Ebony Maw,2.0
+1340,Nebula,Corvus Glaive,2.0
+1341,Nebula,Proxima Midnight,2.0
+1342,Nebula,Thanos,2.0
+1343,Nebula,Thanos,2.0
+1344,Nebula,Ebony Maw,2.0
+1345,Nebula,Proxima Midnight,2.0
+1346,Nebula,Corvus Glaive,2.0
+1347,Nebula,Taserface,2.0
+1348,Nebula,Ravagers,2.0
+1349,Nebula,Ronan the Accuser,2.0
+1350,Nebula,Thanos,2.0
+1351,Nebula,Taserface,2.0
+1352,Nebula,Collector,2.0
+1353,Rattler,King Cobra,8.0
+1354,Rattler,Constrictor,8.0
+1355,Rattler,Death Adder,8.0
+1356,Rattler,King Cobra,8.0
+1357,Nighthawk,Doctor Spectrum,7.0
+1358,Nighthawk,Power Princess,7.0
+1359,Primitives,Hive,5.0
+1360,Primitives,Holden Radcliffe,5.0
+1361,Primitives,Hive,5.0
+1362,Alexander Pierce,Agent Jasper Sitwell,5.0
+1363,Alexander Pierce,Loki Laufeyson,5.0
+1364,Alexander Pierce,Batroc,5.0
+1365,Melissa Tarleton,M.O.D.O.K.,11.0
+1366,Melissa Tarleton,Jodie Tarleton,11.0
+1367,Melissa Tarleton,Lou Tarleton,11.0
+1368,Melissa Tarleton,M.O.D.O.K.,11.0
+1369,Power Princess,Nighthawk,7.0
+1370,Power Princess,Doctor Spectrum,7.0
+1371,President Loki,Variants,4.0
+1372,President Loki,Boastful Loki,4.0
+1373,President Loki,Variants,4.0
+1374,President Loki,Loki Laufeyson,4.0
+1375,President Loki,Boastful Loki,4.0
+1376,President Loki,Variants,4.0
+1377,President Loki,Boastful Loki,4.0
+1378,President Loki,Loki Laufeyson,4.0
+1379,President Loki,Boastful Loki,4.0
+1380,Masters of Evil,Baron Zemo,9.0
+1381,Masters of Evil,Abomination,9.0
+1382,Masters of Evil,Crimson Dynamo,9.0
+1383,Masters of Evil,Skurge,9.0
+1384,Masters of Evil,Wonder Man,9.0
+1385,Masters of Evil,Chemistro,9.0
+1386,Masters of Evil,Baron Zemo,9.0
+1387,Masters of Evil,Skurge,9.0
+1388,Masters of Evil,Wonder Man,9.0
+1389,Masters of Evil,Crimson Dynamo,9.0
+1390,Masters of Evil,Abomination,9.0
+1391,Masters of Evil,Chemistro,9.0
+1392,Masters of Evil,Red Skull,9.0
+1393,Masters of Evil,Loki Laufeyson,9.0
+1394,Masters of Evil,Red Skull,9.0
+1395,Masters of Evil,Beetle,9.0
+1396,Masters of Evil,Baron Zemo,9.0
+1397,Masters of Evil,Green Goblin,9.0
+1398,Mayhem,Roxxon Corporation,4.0

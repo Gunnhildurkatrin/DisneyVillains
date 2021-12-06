@@ -10,4 +10,4 @@ date: 2021-12-06T14:29:55+01:00
 
 
 
-![image]({{< imgresize pdf "50x50" >}}/images/network.png)
+![image]({{< logo-resize pdf "50x50" >}}/images/network.png)

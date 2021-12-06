@@ -8,3 +8,6 @@ date: 2021-12-06T14:29:55+01:00
 
 
 {{< figure src="/images/network.png" class="img-lg">}}
+
+
+<img src="/images/network.png" alt="network" width="200"/>

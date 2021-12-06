@@ -1,28 +1,14 @@
 ---
-title: "Marvel Villains"
+title: "Disney Villains"
 date: 2021-12-06T14:29:55+01:00
 omit_header_text: true
 menu: main
 ---
 
+
+This is the final project in the course Social Graphs and Interactions, taught at DTU 2021. This Project is about the network of Marvel villains.  At the beginning of this project all villains from the Disney universe where included, but as time passed a decision was taken to only include the Marvel villains. The video  below will give you a quick insight of project.
+
 {{< youtube 9RyQ6VwNjI0 >}}
 
-In the figure above we see that the Star Wars Universe, is the universe with the highest percentage of deceased main villains. Indeed, the only ones that are currently alive in the Star Wars Universe, are the villains from the series currently on tv. Grand Admiral Thrawn, is the only one that (not a spoiler) got out of the whole tv show alive, even though it was implied that he was dead.
 
-Moreover, at first sight, Walt Disney seems to have quite a high percentage of deceased characters. This makes sense when we think about what used to happen with villains in older Disney movies, such as, Scar, Ursula, and more.
-
-Finally, what we need to point out, is that if someone wants to be a bad guy, Pixar is the safest environment to do so, with only a 13% death rate of villains.
-
-
-
-![network]({{< baseurl >}}/images/network.png)
-
-
-
-{{< figure src="/images/network.png" class="img-sm">}}
-
-
-<img src="/images/network.png" 
-     style="margin: 0px 5px 5px 0px; float: left; 
-            width:100px; height:149px; border:0" />
 

@@ -2,3 +2,6 @@ baseURL = 'https://jolly-rosalind-278310.netlify.app/'
 languageCode = 'en-us'
 title = 'Dinsey Villains'
 theme = 'ananke'
+
+[params]
+      custom_css = ["css/custom.css"]

@@ -1,1 +1,1 @@
-img[alt=network] { width: 2000px; }
+img[alt=network] { max-width: 100%; }

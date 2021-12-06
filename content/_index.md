@@ -15,7 +15,7 @@ Finally, what we need to point out, is that if someone wants to be a bad guy, Pi
 
 
 
-![network]({{< baseurl >}}/images/network.png)
+![network]({{< baseurl >}}/images/network.png =250x250)
 
 
 {{< figure src="/images/network.png" class="img-sm">}}

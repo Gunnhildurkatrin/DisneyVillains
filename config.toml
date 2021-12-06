@@ -5,10 +5,9 @@ theme = 'ananke'
 
 [params]
   custom_css = ["css/custom.css"]
-  author = "Gunnhildur"
+  author = ""
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
-  background_color_class = "bg-grey"
-  featured_image = "/images/marvel.jpeg"
-  recent_posts_number = 2
+  background_color_class = "bg-black"
+  featured_image = '/images/marvel.jpeg'

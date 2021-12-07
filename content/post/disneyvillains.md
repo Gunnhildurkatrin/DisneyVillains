@@ -1,6 +1,7 @@
 ---
 title: "Disney Villains"
 date: 2021-12-07T10:31:53+01:00
+background_color_class: "bg-white"
 ---
 
 
@@ -15,6 +16,9 @@ The dataset was extracted from the Disney Fandom Wiki webpage, and it contains a
 ## Goal
 
 The goal of the project is to create an interesting network and extract valuable information about villains connections. We are interested in discovering a new perspective of the villains in the Disney universe and we also want to include some type of discovery in our results and se what characterises an evil villain. We want to be able to use the tools and methods that we have learned in this course, such as, sentimental analyses, WordClouds, extracting communities, and TF-IDF.
+
+
+## Basic statistics
 
 ![stats]({{< baseurl >}}/images/stats.png)
 

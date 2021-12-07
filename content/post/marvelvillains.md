@@ -63,7 +63,7 @@ The figure below shows the average compound score for every community in the Mar
 
 ![sentiment]({{< baseurl >}}/images/sentiment.png)
 
-Next, the happiness score for every villain in the Marvel network is found. Below are displayed both the top 10 villains with the highest happiness score and the top 10 villains with the lowest happiness score.
+Next, the happiness score for every villain in the Marvel network is found. Below are displayed both the 10 villains with the highest happiness score and the 10 villains with the lowest happiness score.
 
 ![sentiment]({{< baseurl >}}/images/happiness_score.png)
 
@@ -72,7 +72,7 @@ Next, the happiness score for every villain in the Marvel network is found. Belo
 ![sentiment]({{< baseurl >}}/images/sentimental_graph.png)
 
 
-The figure above shows that the happiness score tends to be low. The mean value for the happiness score is -0.298 which is rather low and is in line with the network as this is a Marvel villains network and the villains are most often not described in a kind way. 
+The figure above shows that the happiness scores tend to be low. The mean value for the happiness score is -0.298 which is rather low but is in line with the network as this is a Marvel villains network and the villains are most often described in a bad way. 
 
 Next, a bar plot of the average happiness score for all the main antagonists of the Marvel villain's network is displayed.
 
@@ -80,7 +80,7 @@ Next, a bar plot of the average happiness score for all the main antagonists of 
 
 ![sentiment]({{< baseurl >}}/images/sentimental_graph_2.png)
 
-From this it can be concluded that the main antagonists are in fact much sadder than the others. By only looking at the main antagonists, the average happiness score dropped from -0.298 to -0.583.
+From this figure it can be concluded that the main antagonists are in fact much sadder than the other villains. By only looking at the main antagonists, the average happiness score dropped from -0.298 to -0.583.
 
 
 

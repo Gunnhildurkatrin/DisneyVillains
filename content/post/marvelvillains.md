@@ -50,9 +50,12 @@ Furthermore, we used the information from the community detection algorithm to b
 
 ![network]({{< baseurl >}}/images/network_comp.png)
 
+
 ## Sentiment analysis
 
+We start by using the SentimentIntensityAnalyzer, which takes in a string and returns a dictionary with 4 scores for every character. The four scores are, negative, neutral, positive, and compound. The compound is computed by normalizing the three former mentioned scores. Then we compute the average compound score (happiness score), for the top 3 most connected characters in every community in our network.
 
+The figure below shows the average compound scores for every community in our network. We notice that the community that contains Loki Laufeyson, Variants, and Asgardians always tend to have one of the lowest average compound scores, this is not a surprise since Loki Laufeyson is the biggest villain in the Marvel villain network.
 
-
+![sentiment]({{< baseurl >}}/images/sentiment.png)
 

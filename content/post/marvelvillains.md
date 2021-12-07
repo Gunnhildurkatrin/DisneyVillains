@@ -22,6 +22,11 @@ Betweenness centrality is a measure, based on the shortest path. All the nodes i
 
 In our network, we see that Thanos has by far the greatest influence in the Marvel universe, not only because he is a main antagonist in the most recent Marvel movies, but mostly because of his regular appearances in comics since 1973. This is represented by the fact that he is a part of 25% of the total shortest paths. In the next place is Loki, who has multiple on-screen appearances and third is Ultron who, as an enemy of Avengers, cooperates has joined forces with many other villains.
 
+In the graph below se can se, Thanos connections Highlighted
+
+#### Thanos connections
+![network]({{< baseurl >}}/images/BC_vis.png)
+
 ## The network
 
 This is the Marvel villains network. The nodes ranked based on their degree, so bigger nodes have a higher degree, and vice versa. Ranking nodes based on degree it explains the network well, and it can be seen clearly what characters are the most connected. With this, we can get acquainted with the Marvel villain's network.
@@ -29,6 +34,21 @@ This is the Marvel villains network. The nodes ranked based on their degree, so 
 #### Marvel network
 ![network]({{< baseurl >}}/images/network.png)
 
+## Communities
+
+Below we can see the communities computed using a community detection algorithm, for the Marvel universe.  
+
+![network]({{< baseurl >}}/images/communities.png)
+
+Since the algorithm used is a stochastic process, the communities will differ every time the algorithm is run, however, we will be able to see specific patterns in relationships between characters. For example, Scorpio and Dr. Octapus will always be in the same community with The Venom as they are the main antagonists of Spiderman. In the same manner, Red Skull will be with Bucky Barnes, while Loki will be with the Asgardians (as well as with Variations of Loki that are considered different characters).
+
+#### Communities visualised with Gephi
+
+Furthermore, we used the information from the community detection algorithm to build the Marvel network in Gephi. We colored the nodes based on their communities.
+
+![network]({{< baseurl >}}/images/network_comp.png)
+
+## Sentiment analysis
 
 
 

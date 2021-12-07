@@ -68,3 +68,10 @@ Then we found the average happiness score depending on the importance of a villa
 
 
 ![sentiment]({{< baseurl >}}/images/sentimental_graph.png)
+
+
+
+![happy]({{< baseurl >}}/images/happy_wc.png)
+
+
+![sad]({{< baseurl >}}/images/sad_wc.png)

@@ -39,7 +39,7 @@ In the bar plot above we see that the Star Wars Universe, is the universe with t
 
 ## Disney Villains Network
 
-![stats]({{< baseurl >}}/images/stats3.png)
+![stats]({{< baseurl >}}/images/villain_network.png)
 
 
 

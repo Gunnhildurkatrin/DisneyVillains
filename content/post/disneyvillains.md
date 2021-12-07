@@ -66,7 +66,9 @@ Looking both at the Disney villains network and the WordClouds for different uni
 When looking at the DataFrame, we see that Darth Vader is the villain that has the highest number of connections to other universes. When exploring this further, we saw that these connections were not because Darth Vader appears or recognizes characters from other Disney moveies. Rather because that there are some characters in other movies that are inspired by him and his features.
 
 These results motivated us to narrow down the subject, and take a further look into one cluster or universe in the whole giant component Disney villain network. When looking at the figure of the network above, we can see that the green nodes or the nodes that represent Marvel universe, form a large separated group. From this we decided to take a subset of the whole network, and look even further into the Marvel universe. 
--|
+
+-
+
 To read more about the Marvel universe check-out the nest pages.
 
 

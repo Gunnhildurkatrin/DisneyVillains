@@ -16,3 +16,4 @@ Link to explainer notebook: https://nbviewer.org/github/Gunnhildurkatrin/explain
 
 Link to GitHub repository: https://github.com/Gunnhildurkatrin/DisneyVillains.git
 
+[Linkur](https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney_villains_final.ipynb)

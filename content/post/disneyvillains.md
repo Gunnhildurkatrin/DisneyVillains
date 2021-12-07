@@ -42,7 +42,7 @@ In the bar plot above we see that the Star Wars Universe, is the universe with t
 
 This is the whole Villains network, with different colors for all four universes and we must say it looks a little crazy. On the figure, we see that there are some groups that are better connected than others. Those groups represent the different universes. The Marvel universe is displayed with green color, Star Wars with red color, Pixar with gray color, Walt Diseny with blue color and the villains who are not a part of a specific universe, are represented with pink color (Unknown).
 
-# WordClouds per universe
+## WordClouds per universe
 
 ![stats]({{< baseurl >}}/images/marvel.png)
 
@@ -57,8 +57,17 @@ This is the whole Villains network, with different colors for all four universes
 
 These are the WordClouds for all four universes, we were extremely happy with the outcome. We thought the WordClouds told a good story about different universes. If we take a further look into the Marvel WordCloud we see words like Spiderman, Loki, Marvel, comics, kill, return, Hulk and Thor, these words are a great example of what the Marvel universe is all about. The same can be said about the other universe WordCloud, for example, in Disney WordCloud we see words such as tell, time, show, and appearance, these are all words that fit well when telling a story as Walt Disney does. In the Star Wars WordCloud, we see words like Vader which is a famous character in the Star Wars movie. Finally, in the Pixar WordCloud, we see words such as Buzz, toy, Mater, incredible, and Woody.
 
+## Connection between universes 
 
+Looking both at the Disney villains network and the WordClouds for different universes, we want to examine if there is any strong connection between different universes. We decided to compute the 10 highest connections among different universes an the results are displayed in the DataFrame below.
 
+![stats]({{< baseurl >}}/images/dataframe.png)
+
+When looking at the DataFrame, we see that Darth Vader is the villain that has the highest number of connections to other universes. When exploring this further, we saw that these connections were not because Darth Vader appears or recognizes characters from other Disney moveies. Rather because that there are some characters in other movies that are inspired by him and his features.
+
+These results motivated us to narrow down the subject, and take a further look into one cluster or universe in the whole giant component Disney villain network. When looking at the figure of the network above, we can see that the green nodes or the nodes that represent Marvel universe, form a large separated group. From this we decided to take a subset of the whole network, and look even further into the Marvel universe. 
+-|
+To read more about the Marvel universe check-out the nest pages.
 
 
 

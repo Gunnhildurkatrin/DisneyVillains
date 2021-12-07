@@ -12,8 +12,14 @@ This is the final project in the course Social Graphs and Interactions, taught a
 
 
 
-{{ partial "share-buttons.html" . }}
-
 Linkur: https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb
 
-![stats](https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb)
+
+[About]({{< ref "https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb" >}} "About Us")
+
+
+{{< relref "https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb" >}}
+
+
+
+{{< relref path="https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb" outputFormat="rss" >}}

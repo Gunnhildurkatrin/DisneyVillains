@@ -8,7 +8,7 @@ body_classes: "avenir bg-white"
 
 ## Motivation
 
-When thinking of Disney films, most people feel a rush of nostalgia, as if they were watching one of those films with a bowl of cereal on a Sunday morning. Everybody has their favourite characters and that one villain that they were a little bit afraid off. In this project, the villains of Disney, will be explored further and hopefully seen in a new light.
+When thinking of Disney films, most people feel a rush of nostalgia, as if they were watching one of those films with a bowl of cereal on a Sunday morning. Everybody has their favourite character and that one villain that they were a little bit afraid off. In this project, the villains of Disney, will be explored further and hopefully seen in a new light.
 
 
 ## Dataset
@@ -25,24 +25,25 @@ The goal of the project is to create an interesting network and extract valuable
 
 Some basic statistics about our dataset:
 
-![stats]({{< baseurl >}}/images/stats.png)
+![stats1]({{< baseurl >}}/images/stats.png)
 
+Which universe kills the most of its main antagonists?
 
-Which universe kills the most of it's main antagonists?
+![stats2]({{< baseurl >}}/images/stats2.png)
 
-![stats]({{< baseurl >}}/images/stats2.png)
+Bar plot that shows the percentage of alive vs. deceased characters per universe: 
 
-Bar plot of, percentage of alive vs. deseased characters per universe: 
-
-![stats]({{< baseurl >}}/images/stats3.png)
+![stats3]({{< baseurl >}}/images/stats3.png)
 
 In the bar plot above we see that the Star Wars Universe, is the universe with the highest percentage of deceased main villains. Indeed, the only ones that are currently alive in the Star Wars Universe, are the villains from the series currently on tv. Grand Admiral Thrawn, is the only one that (not a spoiler) got out of the whole tv show alive, even though it was implied that he was dead. Moreover, at first sight, Walt Disney seems to have quite a high percentage of deceased characters. This makes sense when we think about what used to happen with villains in older Disney movies, such as, Scar, Ursula, and more.  Finally, what we need to point out, is that if someone wants to be a bad guy, Pixar is the safest environment to do so, with only a 13% death rate of villains.
+
 
 ## Disney Villains Network
 
 ![stats]({{< baseurl >}}/images/villain_network.png)
 
 This is the whole Villains network, with different colors for all four universes and we must say it looks a little crazy. On the figure, we see that there are some groups that are better connected than others. Those groups represent the different universes. The Marvel universe is displayed with green color, Star Wars with red color, Pixar with gray color, Walt Diseny with blue color and the villains who are not a part of a specific universe, are represented with pink color (Unknown).
+
 
 ## WordClouds per universe
 
@@ -58,6 +59,7 @@ This is the whole Villains network, with different colors for all four universes
 ![stats]({{< baseurl >}}/images/pixar.png)
 
 These are the WordClouds for all four universes, we were extremely happy with the outcome. We thought the WordClouds told a good story about different universes. If we take a further look into the Marvel WordCloud we see words like Spiderman, Loki, Marvel, comics, kill, return, Hulk and Thor, these words are a great example of what the Marvel universe is all about. The same can be said about the other universe WordCloud, for example, in Disney WordCloud we see words such as tell, time, show, and appearance, these are all words that fit well when telling a story as Walt Disney does. In the Star Wars WordCloud, we see words like Vader which is a famous character in the Star Wars movie. Finally, in the Pixar WordCloud, we see words such as Buzz, toy, Mater, incredible, and Woody.
+
 
 ## Connection between universes 
 

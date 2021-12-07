@@ -30,10 +30,9 @@ Which universe kills the most of it's main antagonists?
 
 ![stats]({{< baseurl >}}/images/stats2.png)
 
-
+Bar plot of, percentage of alive vs. deseased characters per universe: 
 
 ![stats]({{< baseurl >}}/images/stats3.png)
-
 
 In the bar plot above we see that the Star Wars Universe, is the universe with the highest percentage of deceased main villains. Indeed, the only ones that are currently alive in the Star Wars Universe, are the villains from the series currently on tv. Grand Admiral Thrawn, is the only one that (not a spoiler) got out of the whole tv show alive, even though it was implied that he was dead. Moreover, at first sight, Walt Disney seems to have quite a high percentage of deceased characters. This makes sense when we think about what used to happen with villains in older Disney movies, such as, Scar, Ursula, and more.  Finally, what we need to point out, is that if someone wants to be a bad guy, Pixar is the safest environment to do so, with only a 13% death rate of villains.
 

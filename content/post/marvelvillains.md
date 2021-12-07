@@ -9,7 +9,7 @@ date: 2021-12-06T14:29:55+01:00
 
 
 
-{{< figure src="/images/network.png" class="img-sm">}}
+{{< figure src="/images/network.png" class="fl">}}
 
 
 

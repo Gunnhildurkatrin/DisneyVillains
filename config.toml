@@ -16,6 +16,6 @@ enableRobotsTXT = true
   favicon = ""
   site_logo = ""
   description = ""
-  background_color_class = "bg-white"
+  background_color_class = "bg-silver"
   featured_image = '/images/disney.jpeg'
   plugins_css = ["custom"]

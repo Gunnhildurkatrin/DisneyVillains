@@ -32,7 +32,7 @@ The goal of the project is to create an interesting network and extract valuable
 ![stats]({{< baseurl >}}/images/stats3.png)
 
 
-{{< figure src="/images/stats.png" class="img-sm">}}
+{{< figure src="/images/stats.png" width="100px" class="about-left" >}}
 
 
 In the barplot we see that the Star Wars Universe, is the universe with the highest percentage of deceased main villains. Indeed, the only ones that are currently alive in the Star Wars Universe, are the villains from the series currently on tv. Grand Admiral Thrawn, is the only one that (not a spoiler) got out of the whole tv show alive, even though it was implied that he was dead. Moreover, at first sight, Walt Disney seems to have quite a high percentage of deceased characters. This makes sense when we think about what used to happen with villains in older Disney movies, such as, Scar, Ursula, and more.  Finally, what we need to point out, is that if someone wants to be a bad guy, Pixar is the safest environment to do so, with only a 13% death rate of villains.

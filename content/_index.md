@@ -5,8 +5,9 @@ omit_header_text: true
 menu: main
 ---
 
+## Project overview
 
-This is the final project in the course Social Graphs and Interactions, taught at DTU 2021. This Project is about the network of Marvel villains.  At the beginning of this project all villains from the Disney universe where included, but as time passed a decision was taken to only include the Marvel villains. The video  below will give you a quick insight of project.
+This is the final project in the course Social Graphs and Interactions, taught at DTU 2021. This Project is about the network of Marvel villains.  At the beginning of this project all villains from the Disney universe where included, but as time passed a decision was taken to only include the Marvel villains. The video below will give you a quick insight of project. Links to an explainer notebook and a Github repository can be found under the video. 
 
 {{< youtube 9RyQ6VwNjI0 >}}
 

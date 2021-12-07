@@ -42,7 +42,7 @@ From the figure above it is concluded that the Star Wars Universe, is the univer
 
 ![stats]({{< baseurl >}}/images/villain_network.png)
 
-This is the whole Villains network, with different colors for all four universes and we must say it looks a little crazy. On the figure, we see that there are some groups that are better connected than others. Those groups represent the different universes. The Marvel universe is displayed with green color, Star Wars with red color, Pixar with gray color, Walt Diseny with blue color and the villains who are not a part of a specific universe, are represented with pink color (Unknown).
+This is the whole Villains network, with different colors for all four universes and when looking at it, is sure does look a little crazy. On the figure, there are some groups that are better connected than others. Those groups represent the different universes. The Marvel universe is displayed with green color, Star Wars with red color, Pixar with gray color, Walt Diseny with blue color and the villains who are not a part of a specific universe, are represented with pink color (Unknown).
 
 
 ## WordClouds per universe

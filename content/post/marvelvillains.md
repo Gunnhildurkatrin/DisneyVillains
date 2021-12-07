@@ -69,9 +69,48 @@ Then we found the average happiness score depending on the importance of a villa
 
 ![sentiment]({{< baseurl >}}/images/sentimental_graph.png)
 
+From the figure above we see that the happiness score tends to be low. The mean value for the happiness score is -0.194 which is rather low and is in line with our network since we are examining the Marvel Villains and they are most often not described in a kind way.
+
+Next, we looked at the average happiness score for the all the main antagonists of our network. The results can be seen on the figure below.
+
+![sentiment]({{< baseurl >}}/images/sentimental_graph_2.png)
+
+From this, we can conclude that the main antagonists are in fact much sadder than the others. By only looking at the main antagonists, the average happiness score dropped from -0.298 to -0.583.
 
 
 ![happy]({{< baseurl >}}/images/happy_wc.png)
 
 
-![sad]({{< baseurl >}}/images/sad_wc.png)
+![sad]({{< baseurl >}}/images/sad_wc.png) 
+
+WordClouds were made for the happiest and the saddest villains, to get a better understanding of the data. We can see that the WordClouds tell a story. The happy WordCloud contains words and names. The names that appear large in the happy WordCloud are e.g Spider-Man, Nathaniel, and John. These are all defined as good characters in the Marvel universe. In the happy WordCloud, there also appear words like, find, power, shield, and life, which are all quite positive words.
+
+However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. We also see words like kill, destroy, help, fight and take which are words that we can agree on describe sad situations.
+
+## TF-IDF 
+
+After examining the words from every community, we see that every community seems to tell a little story about part of the Marvel universe.
+
+The stories are following:
+
+-| Community 1: Marvel's Inhumans appear in this community, that are fictional characters who are Inhumans, a race of superhumans appearing in Marvel Comics
+-| Community 2: This community is enhanced related. This category is for all individuals who were artificially enhanced.
+-| Community 3: This comminity looks like it is Loki-related, who again, is the most connected villains in the Marvel universe.
+-| Community 4: It looks like this community is Roxxon related. The Roxxon Energy Corporation is the name of a fictional massive petroleum industrial -| -|conglomerate in the Marvel Universe
+-| Community 5: Finally, this community seems to be Combat-related, but Combat Was from Waco, Texas, and was highlight skilled in various forms of unarmed -|fighting.
+Overall, within the Marvel universe, the communities appear to be rather reasonable.
+
+## Description of Perfect villain
+
+#### Description of EVILNESS: 
+
+Description:
+
+Be in the Marvel villain network.
+Have high connections to other characters.
+Be Main antagonist.
+Have words like kill, fight and destroy in your description text.
+
+And, if all else fails, just be more like LOKI LAUFEYJARSON!
+
+

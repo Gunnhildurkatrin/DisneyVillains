@@ -59,9 +59,12 @@ The figure below shows the average compound scores for every community in our ne
 
 ![sentiment]({{< baseurl >}}/images/sentiment.png)
 
-![sentiment]({{< baseurl >}}/images/happiness_high.png)
+
+Next, we computed the happiness score for every villain in our Marvel network. Below are displayed both the top 10 villains with the highest happiness score and the top 10 villains with the lowest happiness score.
+
+![sentiment]({{< baseurl >}}/images/happiness_score.png)
+
+Then we found the average happiness score depending on the importance of a villain, in other words, if a character is a min antagonist or a lesser villain. We noticed that there is some difference in the scores, and the main antagonist tends to have a lower happiness score than the lesser villain. This seems accurate since the main antagonists are of course the worst villains.
 
 
-![sentiment]({{< baseurl >}}/images/happiness_low.png)
-
-
+![sentiment]({{< baseurl >}}/images/sentimental_graph.png)

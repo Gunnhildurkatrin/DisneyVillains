@@ -96,16 +96,20 @@ WordClouds with the most happy villains from the network was made. The names tha
 
 ![sad]({{< baseurl >}}/images/sad_wc.png) 
 
-WordClouds with the saddest villains from the network was also made. However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. In the sad WordCloud, there also appear words like kill, destroy, help, fight and take which are words that describe sad situations.
+WordClouds with the saddest villains from the network was also made. However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. In the sad WordCloud, there also appear words like kill, destroy, help, fight and take which are words that describe more dramatic situations.
 
 
 
-## Description of EVILNESS: 
+## Recipe for EVILNESS:
 
-- Be in the Marvel villain network.
-- Have high connections to other characters.
-- Be alive
-- Be a main antagonist.
-- Have words like kill, fight and destroy in your description text.
+Original recipe for 1 villain
+
+Ingreedients:
+
+- 3 1/2 cups - of being in the Marvel villain network.
+- 1 tps - of high connections to other characters
+- 1 cup - of being Alive
+- 1 1/2 cups - of being Main antagonist
+- 2 tps - of having words like kill, fight and destroy in your description text
 
 And, if all else fails, just be more like THANOS and LOKI LAUFEYJARSON!

@@ -10,3 +10,6 @@ This is the final project in the course Social Graphs and Interactions, taught a
 
 {{< youtube 9RyQ6VwNjI0 >}}
 
+
+
+{{ partial "share-buttons.html" . }}

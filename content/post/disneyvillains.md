@@ -21,18 +21,18 @@ The goal of the project is to create an interesting network and extract valuable
 
 ## Basic statistics
 
-
+Some basic statistics about our dataset:
 
 ![stats]({{< baseurl >}}/images/stats.png)
 
 
+Which universe kills the most of it's main antagonists?
+
 ![stats]({{< baseurl >}}/images/stats2.png)
 
 
+
 ![stats]({{< baseurl >}}/images/stats3.png)
-
-
-{{< figure src="/images/stats.png" width="100px" class="about-left" >}}
 
 
 In the bar plot above we see that the Star Wars Universe, is the universe with the highest percentage of deceased main villains. Indeed, the only ones that are currently alive in the Star Wars Universe, are the villains from the series currently on tv. Grand Admiral Thrawn, is the only one that (not a spoiler) got out of the whole tv show alive, even though it was implied that he was dead. Moreover, at first sight, Walt Disney seems to have quite a high percentage of deceased characters. This makes sense when we think about what used to happen with villains in older Disney movies, such as, Scar, Ursula, and more.  Finally, what we need to point out, is that if someone wants to be a bad guy, Pixar is the safest environment to do so, with only a 13% death rate of villains.
@@ -43,17 +43,21 @@ In the bar plot above we see that the Star Wars Universe, is the universe with t
 
 This is the whole Villains network, with different colors for all four universes and we must say it looks a little crazy. On the figure, we see that there are some groups that are better connected than others. Those groups represent the different universes. The Marvel universe is displayed with green color, Star Wars with red color, Pixar with gray color, Walt Diseny with blue color and the villains who are not a part of a specific universe, are represented with pink color (Unknown).
 
-# WordClouds for per universe
+# WordClouds per universe
 
 ![stats]({{< baseurl >}}/images/marvel.png)
 
+
 ![stats]({{< baseurl >}}/images/disneyw.png)
+
 
 ![stats]({{< baseurl >}}/images/starwars.png)
 
+
 ![stats]({{< baseurl >}}/images/pixar.png)
 
-These are the WordClouds for all four universes, We were extremely happy with the outcome. We thought they told a good story about the different universes. If we take a further look into the Marvel WordCloud we see words like Spiderman, Loki, Marvel, comics, kill, return, Hulk and Thor, these words are a great example of what the Marvel universe is all about. The same can be said about the other universe WordCloud, for example, in Disney WordCloud we see words such as tell, time, show, and appearance, these are all words that fit well when telling a story as Walt Disney does. In the Star Wars WordCloud, we see words like Vader which is a famous character in the Star Wars movie. Finally, in the Pixar WordCloud, we see words such as Buzz, toy, Mater, incredible, and Woody.
+These are the WordClouds for all four universes, we were extremely happy with the outcome. We thought the WordClouds told a good story about different universes. If we take a further look into the Marvel WordCloud we see words like Spiderman, Loki, Marvel, comics, kill, return, Hulk and Thor, these words are a great example of what the Marvel universe is all about. The same can be said about the other universe WordCloud, for example, in Disney WordCloud we see words such as tell, time, show, and appearance, these are all words that fit well when telling a story as Walt Disney does. In the Star Wars WordCloud, we see words like Vader which is a famous character in the Star Wars movie. Finally, in the Pixar WordCloud, we see words such as Buzz, toy, Mater, incredible, and Woody.
+
 
 
 

@@ -97,7 +97,8 @@ However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who
 
 - Be in the Marvel villain network.
 - Have high connections to other characters.
-- Be Main antagonist.
+- Be alive
+- Be a main antagonist.
 - Have words like kill, fight and destroy in your description text.
 
 And, if all else fails, just be more like THANOS and LOKI LAUFEYJARSON!

@@ -104,7 +104,6 @@ Overall, within the Marvel universe, the communities appear to be rather reasona
 
 #### Description of EVILNESS: 
 
-Description:
 
 Be in the Marvel villain network.
 Have high connections to other characters.

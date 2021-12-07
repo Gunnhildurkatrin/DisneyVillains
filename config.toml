@@ -1,6 +1,6 @@
 baseURL = 'https://jolly-rosalind-278310.netlify.app/'
 languageCode = 'en-us'
-title = 'Dinsey Villains'
+title = 'Villains'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"

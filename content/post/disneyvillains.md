@@ -13,7 +13,9 @@ When thinking of Disney films, most people feel a rush of nostalgia, as if they 
 
 ## Dataset
 
-The dataset was extracted from the Disney Fandom Wiki webpage, and it contains all the character villains from Disney. That includes characters from different universes, e.g Marvel, Pixar, Star Wars, Walt Disney and other. After building and visualising the network, it was decided to narrow the scope and maintaining at least some possibility of analysing information about the dataset, do to lack of internal connections in the whole Disney Villains dataset. From that a decision was made to select a subset of the data, that represents one universe, Marvel. (https://disney.fandom.com/wiki/Category:Villains)
+The dataset was extracted from the Disney Fandom Wiki webpage and it contains all the character villains from Disney. That includes characters from different universes, e.g Marvel, Pixar, Star Wars, Walt Disney and other. A decision was made to select a subset of the data, that represents one universe, Marvel. due to lack of internal connections in the whole Disney Villains dataset. This was done because after building and visualizing the network, it seemed necessary to narrow the scope and maintaining at least some possibility of analyzing information about the dataset.
+
+Link to the dataset: (https://disney.fandom.com/wiki/Category:Villains)
 
 
 ## Goal
@@ -35,14 +37,14 @@ Bar plot that shows the percentage of alive vs. deceased characters per universe
 
 ![stats3]({{< baseurl >}}/images/stats3.png)
 
-From the figure above it is concluded that the Star Wars Universe, is the universe with the highest percentage of deceased main villains. Indeed, the only ones that are currently alive in the Star Wars Universe, are the villains from the series currently on tv. Grand Admiral Thrawn, is the only one that (not a spoiler) got out of the whole tv show alive, even though it was implied that he was dead. Moreover, at first sight, Walt Disney seems to have quite a high percentage of deceased characters. This makes sense when we think about what used to happen with villains in older Disney movies, such as, Scar, Ursula, and more. Finally, what is needed to point out, is that if someone wants to be a bad guy, Pixar is the safest environment to do so, with only a 13% death rate of villains.
+From the figure above it is concluded that the Star Wars Universe is the universe with the highest percentage of deceased main villains. Indeed, the only ones that are currently alive in the Star Wars Universe, are the villains from the series currently on tv. Grand Admiral Thrawn is the only one that (not a spoiler) got out of the whole TV show alive, even though it was implied that he was dead. Moreover, at first sight, Walt Disney seems to have quite a high percentage of deceased characters. This makes sense when we think about what used to happen with villains in older Disney movies, such as, Scar, Ursula, and more. Finally, what is needed to point out, is that if someone wants to be a bad guy, Pixar is the safest environment to do so, with only a 13% death rate of villains.
 
 
 ## Disney Villains Network
 
 ![stats]({{< baseurl >}}/images/villain_network.png)
 
-This is the whole Villains network, with different colors for all four universes and when looking at it, is sure does look a little crazy. On the figure, there are some groups that are better connected than others. Those groups represent the different universes. The Marvel universe is displayed with green color, Star Wars with red color, Pixar with gray color, Walt Diseny with blue color and the villains who are not a part of a specific universe, are represented with pink color (Unknown).
+This is the whole Villains network, with different colors for all four universes and when looking at it, is sure does look a little crazy. On the figure there are some groups that are better connected than others. Those groups represent the different universes. The Marvel universe is displayed with green color, Star Wars with red color, Pixar with gray color, Walt Disney with blue color and the villains who are not a part of a specific universe, are represented with pink color (Unknown).
 
 
 ## WordClouds per universe
@@ -73,5 +75,3 @@ All of these results are motivating to narrow down the subject, and take a furth
 
 
 To read more about the Marvel universe check-out the next page 
-
-

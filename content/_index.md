@@ -17,9 +17,3 @@ Linkur: https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/mai
 
 [About]({{< ref "https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb" >}} "About Us")
 
-
-{{< relref "https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb" >}}
-
-
-
-{{< relref path="https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb" outputFormat="rss" >}}

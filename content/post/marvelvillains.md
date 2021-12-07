@@ -88,7 +88,7 @@ From this figure it can be concluded that the main antagonists are in fact much 
 
 ![happy]({{< baseurl >}}/images/happy_wc.png)
 
-The names that appear large in the happy WordCloud are e.g Spider-Man, Nathaniel, and John. These are all defined as good characters in the Marvel universe. In the happy WordCloud, there also appear words like, find, power, shield, and life, which are all rather positive words.
+WordClouds with the most happy villains from the network was made. The names that appear large in the happy WordCloud are e.g Spider-Man, Nathaniel, and John. These are all defined as good characters in the Marvel universe. In the happy WordCloud, there also appear words like, find, power, shield, and life, which are all rather positive words.
 
 
 
@@ -96,7 +96,7 @@ The names that appear large in the happy WordCloud are e.g Spider-Man, Nathaniel
 
 ![sad]({{< baseurl >}}/images/sad_wc.png) 
 
-However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. In the sad WordCloud, there also appear words like kill, destroy, help, fight and take which are words that describe sad situations.
+WordClouds with the saddest villains from the network was also made. However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. In the sad WordCloud, there also appear words like kill, destroy, help, fight and take which are words that describe sad situations.
 
 
 

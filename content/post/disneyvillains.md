@@ -2,6 +2,7 @@
 title: "Disney Villains"
 date: 2021-12-07T10:31:53+01:00
 featured_image: '/images/disney.jpeg'
+body_classes: "avenir bg-white"
 ---
 
 

@@ -16,6 +16,6 @@ The dataset was extracted from the Disney Fandom Wiki webpage, and it contains a
 
 The goal of the project is to create an interesting network and extract valuable information about villains connections. We are interested in discovering a new perspective of the villains in the Disney universe and we also want to include some type of discovery in our results and se what characterises an evil villain. We want to be able to use the tools and methods that we have learned in this course, such as, sentimental analyses, WordClouds, extracting communities, and TF-IDF.
 
-![network]({{< baseurl >}}/images/stats.png)
+![stats]({{< baseurl >}}/images/stats.png)
 
 

@@ -13,9 +13,8 @@ When thinking of Disney films, most people feel a rush of nostalgia, as if they 
 
 ## Dataset
 
-The dataset is extracted from the Disney Fandom Wiki webpage and it contains all the character villains from Disney. That includes characters from different universes, e.g Marvel, Pixar, Star Wars, Walt Disney and other. A decision was made to select a subset of the data, that represents one universe, Marvel. due to lack of internal connections in the whole Disney Villains dataset. This is done because after building and visualizing the network, it seemed necessary to narrow the scope and maintaining at least some possibility of analyzing information about the dataset.
+The dataset is extracted from the [Disney Fandom Wiki webpage](https://disney.fandom.com/wiki/Category:Villains) and it contains all the character villains from Disney. That includes characters from different universes, e.g Marvel, Pixar, Star Wars, Walt Disney and other. A decision was made to select a subset of the data, that represents one universe, Marvel. due to lack of internal connections in the whole Disney Villains dataset. This is done because after building and visualizing the network, it seemed necessary to narrow the scope and maintaining at least some possibility of analyzing information about the dataset.
 
-Link to the dataset: https://disney.fandom.com/wiki/Category:Villains
 
 
 ## Goal

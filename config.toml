@@ -20,3 +20,7 @@ enableRobotsTXT = true
   featured_image = '/images/disney.jpeg'
   plugins_css = ["custom"]
   body_classes = "avenir bg-near-white"
+
+  ananke_socials:
+  - name: github
+    url: https://github.com/Gunnhildurkatrin/DisneyVillains

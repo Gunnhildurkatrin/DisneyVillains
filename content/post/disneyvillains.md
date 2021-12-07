@@ -58,7 +58,7 @@ This is the whole Villains network, with different colors for all four universes
 
 ![stats]({{< baseurl >}}/images/pixar.png)
 
-These are the WordClouds for all four universes, we were extremely happy with the outcome. We thought the WordClouds told a good story about different universes. If we take a further look into the Marvel WordCloud we see words like Spiderman, Loki, Marvel, comics, kill, return, Hulk and Thor, these words are a great example of what the Marvel universe is all about. The same can be said about the other universe WordCloud, for example, in Disney WordCloud we see words such as tell, time, show, and appearance, these are all words that fit well when telling a story as Walt Disney does. In the Star Wars WordCloud, we see words like Vader which is a famous character in the Star Wars movie. Finally, in the Pixar WordCloud, we see words such as Buzz, toy, Mater, incredible, and Woody.
+These are the WordClouds for all four universes. They tell a good story about different universes. When taking a further look into the Marvel WordCloud, words like Spiderman, Loki, Marvel, comics, kill, return, Hulk and Thor are displayed. These words are a great example of what the Marvel universe is all about. The same can be said about the other universe WordCloud, for example, in the Disney WordCloud there are words such as tell, time, show, and appearance, these are all words that fit well when telling a story as Walt Disney does. In the Star Wars WordCloud, there are words like Vader which is a famous character in the Star Wars movie. Finally, in the Pixar WordCloud, there are words such as Buzz, toy, Mater, incredible, and Woody.
 
 
 ## Connection between universes 

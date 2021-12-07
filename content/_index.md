@@ -13,6 +13,6 @@ This is the final project in the course Social Graphs and Interactions, taught a
 
 
 
-[Link to explainer notebook](https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney_villains_final.ipynb)
+[Link to explainer notebook](https://nbviewer.org/github/Gunnhildurkatrin/DisneyVillains/blob/main/Notebook/Disney_villains_final.ipynb)
 
 [Link to GitHub repository](https://github.com/Gunnhildurkatrin/DisneyVillains.git)

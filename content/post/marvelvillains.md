@@ -59,3 +59,9 @@ The figure below shows the average compound scores for every community in our ne
 
 ![sentiment]({{< baseurl >}}/images/sentiment.png)
 
+![sentiment]({{< baseurl >}}/images/happiness_high.png)
+
+
+![sentiment]({{< baseurl >}}/images/happiness_low.png)
+
+

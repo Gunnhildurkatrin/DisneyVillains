@@ -13,14 +13,14 @@ Some basic statistics about the Marvel villain network. Below is the top 5 highe
 
 ![network]({{< baseurl >}}/images/out.png)
 
-Betweenness centrality was explored, here are displayed the top 10 characters with the highest betweenness centrality in the Marvel universe:
+Betweenness centrality was explored. Here are displayed the top 10 characters with the highest betweenness centrality in the Marvel universe:
 
 ![network]({{< baseurl >}}/images/BC.png)
 
 
-Betweenness centrality is a measure based on the shortest path. All nodes in a network are connected, so for some nodes, there is a shortest path. The value of betweenness centrality for a node n is measured as the number of shortest paths that pass through node n (not counting the shortest paths initiated or ended in n) and then modded by dividing with the total number of shortest paths in the network. Generally, the higher the number means the node has more influence in the network since more information passes through it.
+Betweenness centrality is a measure based on the shortest path. All nodes in a network are connected, so for some nodes, there is a shortest path. The value of betweenness centrality for a node n is measured as the number of shortest paths that pass through node n (not counting the shortest paths initiated or ended in n) and then modded by dividing with the total number of shortest paths in the network. Generally, the higher the number, the more influence a node has in a network, since more information passes through it.
 
-In the Marvel villain's network, it can be seen that Thanos has one of the greatest influences in the Marvel universe, not only because he is a main antagonist in the most recent Marvel movies, but mostly because of his regular appearances in comics since 1973. This is represented by the fact that he is a part of 25% of the total shortest paths. The villain with the second-highest betweenness centrality is Loki, who has multiple on-screen appearances and third is Ultron who, as an enemy of Avengers, cooperates has joined forces with many other villains.
+In the Marvel villain's network, it can be seen that Thanos has the greatest influences in the Marvel universe, not only because he is one of the main antagonists in the most recent Marvel movies, but also because of his regular appearances in comics since 1973. This is represented by the fact that he is a part of 25% of the total shortest paths. The villain with the second-highest betweenness centrality is Loki, who has multiple on-screen appearances and the third is Ultron who, as an enemy of Avengers, cooperates with has joined forces with many other villains.
 
 In the graph below Thanos connections are highlighted:
 
@@ -30,7 +30,7 @@ In the graph below Thanos connections are highlighted:
 
 ## The network
 
-This is the Marvel villain's network. The nodes are ranked based on their degree, so bigger nodes have a higher degree, and vice versa. Ranking the nodes based on degree explains the network well, and it is clear what characters are the most connected, and like seen Loki Laufeyson is the most connected villain. With this, you can get acquainted with the Marvel villains network.
+This is the Marvel villain's network. The nodes are ranked based on their degree or the number of connections they have, so bigger nodes have a higher degree, and vice versa. Ranking the nodes based on degree explains the network well, and it is clear what characters are the most connected, and like seen Loki Laufeyson is the most connected villain. With this, you can get acquainted with the Marvel villains network.
 
 
 #### Marvel villains network

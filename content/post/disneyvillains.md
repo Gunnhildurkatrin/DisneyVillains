@@ -73,4 +73,4 @@ When looking at the DataFrame, we see that Darth Vader is the villain that has t
 All of these results are motivating to narrow down the subject, and take a further look into one cluster or universe in the whole giant component Disney villain network. 
 
 
-To read more about the Marvel universe check-out the next page 
+To read more about the Marvel universe check-out the next page.

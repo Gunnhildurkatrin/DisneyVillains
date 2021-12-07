@@ -21,6 +21,7 @@ enableRobotsTXT = true
   plugins_css = ["custom"]
   body_classes = "avenir bg-near-white"
 
-  ananke_socials:
-  - name: github
-    url: https://github.com/Gunnhildurkatrin/DisneyVillains
+
+[[params.ananke_socials]]
+name = "GitHub"
+url = "https://github.com/Gunnhildurkatrin/DisneyVillains.git"

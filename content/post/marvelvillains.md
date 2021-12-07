@@ -12,18 +12,17 @@ Some basic statistics about the Marvel villain network. Below is the top 5 highe
 ![network]({{< baseurl >}}/images/in.png)
 
 ![network]({{< baseurl >}}/images/out.png)
- 
 
 Betweenness centrality was explored, here are displayed the top 10 characters with the highest betweenness centrality in the Marvel universe:
 
 ![network]({{< baseurl >}}/images/BC.png)
 
 
-Betweenness centrality is a measure based on the shortest path. All nodes in a network are connected, so for some nodes, there is the shortest path. The value of betweenness centrality for a node n is measured as the number of shortest paths that pass through node n (not counting the shortest paths initiated or ended in n) and then modded by dividing with the total number of shortest paths in the network. Generally, the higher the number means the node has more influence in the network since more information passes through it.
+Betweenness centrality is a measure based on the shortest path. All nodes in a network are connected, so for some nodes, there is a shortest path. The value of betweenness centrality for a node n is measured as the number of shortest paths that pass through node n (not counting the shortest paths initiated or ended in n) and then modded by dividing with the total number of shortest paths in the network. Generally, the higher the number means the node has more influence in the network since more information passes through it.
 
 In the Marvel villain's network, it can be seen that Thanos has one of the greatest influences in the Marvel universe, not only because he is a main antagonist in the most recent Marvel movies, but mostly because of his regular appearances in comics since 1973. This is represented by the fact that he is a part of 25% of the total shortest paths. The villain with the second-highest betweenness centrality is Loki, who has multiple on-screen appearances and third is Ultron who, as an enemy of Avengers, cooperates has joined forces with many other villains.
 
-In the graph below Thanos connections are highlighted
+In the graph below Thanos connections are highlighted:
 
 
 #### Thanos connections
@@ -31,7 +30,7 @@ In the graph below Thanos connections are highlighted
 
 ## The network
 
-This is the Marvel villain's network. The nodes are ranked based on their degree, so bigger nodes have a higher degree, and vice versa. Ranking the nodes based on degree explains the network well, and it can be seen clearly what characters are the most connected. With this, we can get acquainted with the Marvel villain's network.
+This is the Marvel villain's network. The nodes are ranked based on their degree, so bigger nodes have a higher degree, and vice versa. Ranking the nodes based on degree explains the network well, and it is clear what characters are the most connected. With this, you can get acquainted with the Marvel villains online.
 
 #### Marvel villains network
 
@@ -47,7 +46,7 @@ Since the algorithm, that is used to compute the communities, uses a stochastic 
 
 #### Communities visualised 
 
-Furthermore, information from the community detection algorithm was used to build a Marvel villain's network in Gephi.  the nodes were colored based on their communities. 
+Furthermore, information from the community detection algorithm is used to build a Marvel villain's network in Gephi.  the nodes are colored based on their communities. 
 
 ![network]({{< baseurl >}}/images/network_comp.png)
 
@@ -58,7 +57,7 @@ The figure below shows the average compound scores for every community in the Ma
 
 ![sentiment]({{< baseurl >}}/images/sentiment.png)
 
-Next, the happiness score for every villain in the Marvel network was found. Below are displayed both the top 10 villains with the highest happiness score and the top 10 villains with the lowest happiness score.
+Next, the happiness score for every villain in the Marvel network is found. Below are displayed both the top 10 villains with the highest happiness score and the top 10 villains with the lowest happiness score.
 
 ![sentiment]({{< baseurl >}}/images/happiness_score.png)
 
@@ -86,18 +85,16 @@ The names that appear large in the happy WordCloud are e.g Spider-Man, Nathaniel
 
 ![sad]({{< baseurl >}}/images/sad_wc.png) 
 
-However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. We also see words like kill, destroy, help, fight and take which are words that we can agree on describe sad situations.
+However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. In the Sad WordCloud, there also appear words like kill, destroy, help, fight and take which are words that describe sad situations.
 
 ## Description of Perfect villain
 
 #### Description of EVILNESS: 
 
 
-Be in the Marvel villain network.
-Have high connections to other characters.
-Be Main antagonist.
-Have words like kill, fight and destroy in your description text.
+-| Be in the Marvel villain network.
+-| Have high connections to other characters.
+-| Be Main antagonist.
+-| Have words like kill, fight and destroy in your description text.
 
-And, if all else fails, just be more like LOKI LAUFEYJARSON!
-
-
+And, if all else fails, just be more like THANOS and LOKI LAUFEYJARSON!

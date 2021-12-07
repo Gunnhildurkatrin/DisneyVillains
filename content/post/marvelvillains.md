@@ -20,7 +20,7 @@ Betweenness centrality was explored. Here are displayed the top 10 characters wi
 
 Betweenness centrality is a measure based on the shortest path. All nodes in a network are connected, so for some nodes, there is a shortest path. The value of betweenness centrality for a node n is measured as the number of shortest paths that pass through node n (not counting the shortest paths initiated or ended in n) and then modded by dividing with the total number of shortest paths in the network. Generally, the higher the number, the more influence a node has in a network, since more information passes through it.
 
-In the Marvel villain's network, it can be seen that Thanos has the greatest influences in the Marvel universe, not only because he is one of the main antagonists in the most recent Marvel movies, but also because of his regular appearances in comics since 1973. This is represented by the fact that he is a part of 25% of the total shortest paths. The villain with the second-highest betweenness centrality is Loki, who has multiple on-screen appearances and the third is Ultron who, as an enemy of Avengers, cooperates with has joined forces with many other villains.
+In the Marvel villain's network, it can be seen that Thanos has the greatest influences in the Marvel universe, not only because he is one of the main antagonists in the most recent Marvel movies, but also because of his regular appearances in comics since 1973. This is represented by the fact that he is a part of 25% of the total shortest paths. The villain with the second-highest betweenness centrality is Loki, who has multiple on-screen appearances and the third is Ultron who, as an enemy of Avengers, has joined forces with many other villains.
 
 In the graph below Thanos connections are highlighted:
 
@@ -28,9 +28,11 @@ In the graph below Thanos connections are highlighted:
 #### Thanos connections
 ![network]({{< baseurl >}}/images/BC_vis.png)
 
+
 ## The network
 
-This is the Marvel villain's network. The nodes are ranked based on their degree or the number of connections they have, so bigger nodes have a higher degree, and vice versa. Ranking the nodes based on degree explains the network well, and it is clear what characters are the most connected, and like seen Loki Laufeyson is the most connected villain. With this, you can get acquainted with the Marvel villains network.
+This is the Marvel villain's network. The nodes are ranked based on their degree or the number of connections they have, so bigger nodes have more connections, and vice versa. Ranking the nodes based on degree explains the network well, and it is clear what characters are the most connected. Here it is obvious that Loki Laufeyson and Thanos are the most connected villains.
+
 
 
 #### Marvel villains network
@@ -43,19 +45,21 @@ Below are all communities for the Marvel universe displayed, along with their si
 
 ![network]({{< baseurl >}}/images/communities.png)
 
-Since the algorithm, that is used to compute the communities, uses a stochastic process, the communities will differ every time the algorithm is run. However, specific patterns in relationships between characters can be identified. For example, Scorpio and Dr. Octapus will always be in the same community with The Venom as they are the main antagonists of Spiderman. In the same manner, Red Skull will be with Bucky Barnes, while Loki will be with the Asgardians (as well as with Variations of Loki that are considered different characters).
+Since the algorithm that is used to compute the communities uses a stochastic process, the communities will differ every time the algorithm is run. However, specific patterns in relationships between characters can be identified. For example, Scorpio and Dr. Octapus will always be in the same community with The Venom as they are the main antagonists of Spiderman. In the same manner, Red Skull will be with Bucky Barnes, while Loki will be with the Asgardians (as well as with Variations of Loki that are considered different characters).
+
 
 
 #### Communities visualised 
 
-Furthermore, information from the community detection algorithm is used to build a Marvel villain's network in Gephi. The nodes are colored based on their communities. 
+Information from the community detection algorithm is used to build a Marvel villain's network in Gephi. The nodes are colored based on their communities. 
 
 ![network]({{< baseurl >}}/images/network_comp.png)
 
 
+
 ## Sentiment analysis
 
-The figure below shows the average compound scores for every community in the Marvel villains network. The compound score is computed by normalizing scores that the SentimentIntensityAnalyzer returns, these scores are negative, neutral, and positive- score for every character description. Communities that include Loki Laufeyson, Variants, and Asgardians always tend to have one of the lowest average compound scores, this is not a surprise since Loki Laufeyson is the biggest villain in the Marvel villain network.
+The figure below shows the average compound score for every community in the Marvel villains network. Communities that include Loki Laufeyson, Variants, and Asgardians always tend to have one of the lowest average compound scores, this is not a surprise since Loki Laufeyson is the biggest villain in the Marvel villain network.
 
 ![sentiment]({{< baseurl >}}/images/sentiment.png)
 
@@ -79,6 +83,7 @@ Next, a bar plot of the average happiness score for all the main antagonists of 
 From this it can be concluded that the main antagonists are in fact much sadder than the others. By only looking at the main antagonists, the average happiness score dropped from -0.298 to -0.583.
 
 
+
 #### Happy WordCloud
 
 ![happy]({{< baseurl >}}/images/happy_wc.png)
@@ -86,11 +91,13 @@ From this it can be concluded that the main antagonists are in fact much sadder 
 The names that appear large in the happy WordCloud are e.g Spider-Man, Nathaniel, and John. These are all defined as good characters in the Marvel universe. In the happy WordCloud, there also appear words like, find, power, shield, and life, which are all rather positive words.
 
 
+
 #### Sad WordCloud
 
 ![sad]({{< baseurl >}}/images/sad_wc.png) 
 
 However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. In the sad WordCloud, there also appear words like kill, destroy, help, fight and take which are words that describe sad situations.
+
 
 
 ## Description of EVILNESS: 

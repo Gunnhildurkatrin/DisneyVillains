@@ -25,6 +25,3 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "GitHub"
 url = "https://github.com/Gunnhildurkatrin/DisneyVillains.git"
-
-[permalinks]
-  post = ""https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb""

@@ -23,7 +23,7 @@ Betweenness centrality is a measure based on the shortest path. All nodes in a n
 
 In the Marvel villain's network, it can be seen that Thanos has one of the greatest influences in the Marvel universe, not only because he is a main antagonist in the most recent Marvel movies, but mostly because of his regular appearances in comics since 1973. This is represented by the fact that he is a part of 25% of the total shortest paths. The villain with the second-highest betweenness centrality is Loki, who has multiple on-screen appearances and third is Ultron who, as an enemy of Avengers, cooperates has joined forces with many other villains.
 
-In the graph below we can see Thanos connections highlighted
+In the graph below Thanos connections are highlighted
 
 
 #### Thanos connections

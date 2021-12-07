@@ -30,7 +30,8 @@ In the graph below Thanos connections are highlighted:
 
 ## The network
 
-This is the Marvel villain's network. The nodes are ranked based on their degree, so bigger nodes have a higher degree, and vice versa. Ranking the nodes based on degree explains the network well, and it is clear what characters are the most connected. With this, you can get acquainted with the Marvel villains online.
+This is the Marvel villain's network. The nodes are ranked based on their degree, so bigger nodes have a higher degree, and vice versa. Ranking the nodes based on degree explains the network well, and it is clear what characters are the most connected, and like seen Loki Laufeyson is the most connected villain. With this, you can get acquainted with the Marvel villains network.
+
 
 #### Marvel villains network
 
@@ -44,9 +45,10 @@ Below are all communities for the Marvel universe displayed, along with their si
 
 Since the algorithm, that is used to compute the communities, uses a stochastic process, the communities will differ every time the algorithm is run. However, specific patterns in relationships between characters can be identified. For example, Scorpio and Dr. Octapus will always be in the same community with The Venom as they are the main antagonists of Spiderman. In the same manner, Red Skull will be with Bucky Barnes, while Loki will be with the Asgardians (as well as with Variations of Loki that are considered different characters).
 
+
 #### Communities visualised 
 
-Furthermore, information from the community detection algorithm is used to build a Marvel villain's network in Gephi.  the nodes are colored based on their communities. 
+Furthermore, information from the community detection algorithm is used to build a Marvel villain's network in Gephi. The nodes are colored based on their communities. 
 
 ![network]({{< baseurl >}}/images/network_comp.png)
 
@@ -65,36 +67,37 @@ Next, the happiness score for every villain in the Marvel network is found. Belo
 
 ![sentiment]({{< baseurl >}}/images/sentimental_graph.png)
 
-The figure above shows that the happiness score tends to be low. The mean value for the happiness score is -0.298 which is rather low and is in line with the network since we are examining the Marvel Villains and they are most often not described in a kind way. 
 
-Next, a bar plot of the average happiness score for all the main antagonists of the Marvel villain's network can be seen below.
+The figure above shows that the happiness score tends to be low. The mean value for the happiness score is -0.298 which is rather low and is in line with the network as this is a Marvel villains network and the villains are most often not described in a kind way. 
+
+Next, a bar plot of the average happiness score for all the main antagonists of the Marvel villain's network is displayed.
 
 #### The average happiness score for the Marvel main antanogists
 
 ![sentiment]({{< baseurl >}}/images/sentimental_graph_2.png)
 
-From this, it can be concluded that the main antagonists are in fact much sadder than the others. By only looking at the main antagonists, the average happiness score dropped from -0.298 to -0.583.
+From this it can be concluded that the main antagonists are in fact much sadder than the others. By only looking at the main antagonists, the average happiness score dropped from -0.298 to -0.583.
+
 
 #### Happy WordCloud
 
 ![happy]({{< baseurl >}}/images/happy_wc.png)
 
-The names that appear large in the happy WordCloud are e.g Spider-Man, Nathaniel, and John. These are all defined as good characters in the Marvel universe. In the happy WordCloud, there also appear words like, find, power, shield, and life, which are all quite positive words.
+The names that appear large in the happy WordCloud are e.g Spider-Man, Nathaniel, and John. These are all defined as good characters in the Marvel universe. In the happy WordCloud, there also appear words like, find, power, shield, and life, which are all rather positive words.
+
 
 #### Sad WordCloud
 
 ![sad]({{< baseurl >}}/images/sad_wc.png) 
 
-However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. In the Sad WordCloud, there also appear words like kill, destroy, help, fight and take which are words that describe sad situations.
-
-## Description of Perfect villain
-
-#### Description of EVILNESS: 
+However, in the sad WordCloud, there are names like Loki, Sylvie, and Mobius who are defined as bad characters in the Marvel universe. In the sad WordCloud, there also appear words like kill, destroy, help, fight and take which are words that describe sad situations.
 
 
--| Be in the Marvel villain network.
--| Have high connections to other characters.
--| Be Main antagonist.
--| Have words like kill, fight and destroy in your description text.
+## Description of EVILNESS: 
+
+- Be in the Marvel villain network.
+- Have high connections to other characters.
+- Be Main antagonist.
+- Have words like kill, fight and destroy in your description text.
 
 And, if all else fails, just be more like THANOS and LOKI LAUFEYJARSON!

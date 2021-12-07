@@ -66,7 +66,7 @@ These are the WordClouds for all four universes. They tell a good story about di
 
 Examining if there are any strong connection between different universes. The top 10 highest connections among different universes were computed and the results are displayed in the DataFrame below.
 
-![stats]({{< baseurl >}}/images/dataframe.png)
+![stats]({{< baseurl >}}/images/df_connection_uni.png)
 
 When looking at the DataFrame, we see that Darth Vader is the villain that has the highest number of connections to other universes. When exploring this further, these connections were not because Darth Vader appears or recognizes characters from other Disney movies. Rather because that there are some characters in other movies that are inspired by him and his features.
 

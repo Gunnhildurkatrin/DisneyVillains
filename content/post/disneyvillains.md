@@ -73,4 +73,3 @@ To read more about the Marvel universe check-out the next page
 {{< relref path="/post/marvelvillains.md" outputFormat="rss" >}}
 
 
-{{< relref path="/content/post/marvelvillains.md" outputFormat="rss" >}}

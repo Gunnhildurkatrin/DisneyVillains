@@ -24,3 +24,7 @@ The goal of the project is to create an interesting network and extract valuable
 ![stats]({{< baseurl >}}/images/stats.png)
 
 
+
+[![stats]({{< baseurl >}}/images/stats.png)]({{< baseurl >}}/images/stats.png)
+
+

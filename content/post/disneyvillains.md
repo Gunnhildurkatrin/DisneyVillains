@@ -1,7 +1,7 @@
 ---
 title: "Disney Villains"
 date: 2021-12-07T10:31:53+01:00
-background_color_class: "bg-white"
+background_color_class= "bg-white"
 ---
 
 

@@ -21,10 +21,14 @@ The goal of the project is to create an interesting network and extract valuable
 
 ## Basic statistics
 
+
+
 ![stats]({{< baseurl >}}/images/stats.png)
 
 
 ![stats]({{< baseurl >}}/images/stats2.png)
+
+![stats]({{< baseurl >}}/images/stats3.png)
 
 
 

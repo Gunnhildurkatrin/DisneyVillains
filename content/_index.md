@@ -13,4 +13,6 @@ This is the final project in the course Social Graphs and Interactions, taught a
 
 
 
-Linkur: https://nbviewer.org/github/Gunnhildurkatrin/explainer_notebook/blob/main/Disney-villains2.ipynb
+Link: https://nbviewer.org/github/Gunnhildurkatrin/
+explainer_notebook/blob/main/
+Disney-villains2.ipynb
